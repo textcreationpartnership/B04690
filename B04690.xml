@@ -1,0 +1,891 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Addrodiad cywir, o'r pethau pennaf, ar a wnaeth, ac a ddwedodd yspryd aflan, ym Mascon yn Burgundy; yn nh'y un Mr. Francis Pereaud, ... ; a offodwyd allan yn Frangaeg gantho ef ei hun ; a chwedi hynny yn Saesoneg, gan un ac oedd a gwybodaeth neilltuol yng-hylch y Stori hon: ; ac yn awr wedi ei gyfieithu yn Gymraeg, gan S.H. o Abertawe.</title>
+            <title>Antidemon de Mascon. Welsh</title>
+            <author>Perrault, François, 1577-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04690</idno>
+            <idno type="STC">Wing P1583</idno>
+            <idno type="STC">ESTC R181686</idno>
+            <idno type="EEBO-CITATION">49520956</idno>
+            <idno type="OCLC">ocm 49520956</idno>
+            <idno type="VID">174192</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174192)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2674:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Addrodiad cywir, o'r pethau pennaf, ar a wnaeth, ac a ddwedodd yspryd aflan, ym Mascon yn Burgundy; yn nh'y un Mr. Francis Pereaud, ... ; a offodwyd allan yn Frangaeg gantho ef ei hun ; a chwedi hynny yn Saesoneg, gan un ac oedd a gwybodaeth neilltuol yng-hylch y Stori hon: ; ac yn awr wedi ei gyfieithu yn Gymraeg, gan S.H. o Abertawe.</title>
+                  <title>Antidemon de Mascon. Welsh</title>
+                  <author>Perrault, François, 1577-1657.</author>
+                  <author>Du Moulin, Pierre, 1568-1658.</author>
+                  <author>Boyle, Robert, 1627-1691.</author>
+                  <author>S. H.</author>
+               </titleStmt>
+               <extent>30, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>gan T.S,</publisher>
+                  <pubPlace>Ai brintio yn Lundain :</pubPlace>
+                  <date>yn y flwyddyn. 1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Prefatory matter consists of a letter by Robert Boyle to the translator from the French, Pierre Du Moulin, and Du Moulin's answer.</note>
+                  <note>Translated from: L'Antidemon de Mascon.</note>
+                  <note>Reproduction of original in: Llyfrgell Genedlaethol Cymru/National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="wel">wel</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Demonology.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="wel">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174192:1" rendition="simple:additions"/>
+            <pb facs="tcp:174192:1" rendition="simple:additions"/>
+            <p>Adroddiad Cywir, O'r Pethau pennaf, ar a wnaeth, ac a ddwedodd <hi>Yſpryd Aflan.</hi> YM MASCON yn BURGUNDY; Yn Nhý un Mr. FRANCIS PEREAUD, Gweinidog EGLWYS y Proteſtantiaid yn y DREF honno:</p>
+            <p>A Oſſodwyd allan yn <hi>Frangaeg</hi> gantho ef ei hun; a chwedi hynny yn <hi>Saeſoneg,</hi> gan un ac oedd a gwybodaeth neilltuol yng<g ref="char:EOLhyphen"/>hylch y Stori hon:</p>
+            <p>Ac yn awr wedi ei gyfieithu yn <hi>Gymraeg,</hi> gan <hi>S. H.</hi> o <hi>Abertawe.</hi>
+            </p>
+            <p>Ai Brintio yn Lundain gan <hi>T. S,</hi> yn y flwyddyn. <date>1681.</date>
+            </p>
+         </div>
+         <div type="charge_to_the_English_translator">
+            <pb n="2" facs="tcp:174192:2"/>
+            <head>I'm Parchedig a'm Dyſcedig Ffrind, Doctor <hi>Peter Du Moulin.</hi>
+            </head>
+            <opener>
+               <salute>Syr,</salute>
+            </opener>
+            <p>ER fy môd yn tybied yr edrychwch ar fyng waith yn danfon attoch Lyfr ffrangeg Mr. <hi>Pereaud,</hi> megis Peth ich dwyn ar gôt am yr Addewid ddiweddar y ryn<g ref="char:EOLhyphen"/>godd bódd i chwi ei gwneuthur i mi, ynghylch ei oſſod ef mewn Gwiſc ſaiſnig: Etto 'rwi 'n gobeithio, y gw<g ref="char:EOLhyphen"/>newch chwi y cyfiawnder hynny i mi, ac y credwch, oni bae bod y matter yn anghyffredinol, ac oni bae bod fy llaw i (fel y gwyddoch chwi ei bôd hi) wedi ei rhag<g ref="char:EOLhyphen"/>oſſod at waith arall o nattur anghyffelyb iawn, Myfi a'i ty<g ref="char:EOLhyphen"/>bygſwn e'n Gam ir Deyrnas, ac i chwithe, i fôd yn un math o Achos, i wneuthur hwnnw yn Gyfieithwr o Lyfrau rhai eraill, ac a eglurodd eiſioes mewn amryw ieitho<g ref="char:EOLhyphen"/>edd, mor abl y mae fo, i ſcrifennu rhai godidog o'i waith ei hun.</p>
+            <p>Rhaid i mi gyfaddef yn rhwydd i chwi, fod y gog<g ref="char:EOLhyphen"/>wyddiadau nerthol, y rhai y mae dull fy mywyd, a'r Ddyſc y mae fy mryd arni, gwedi weithio ynof i wann<g ref="char:EOLhyphen"/>gredu, ac i fod yn llêſg i goelio; a'r amryw ddychmy<g ref="char:EOLhyphen"/>gion twyllodrus, a'r ofer-goelion, y rhai (ir gore o'm daliad ſulw hyd yn hyn) ydynt arferol i ddiwyno y ſto<g ref="char:EOLhyphen"/>riau ynghylch Yſprydion a Dewineſſau neu witſhod, Rhaid i mi gyfaddef meddafi, fod y Gogwyddiadau, y Dychmygion, ar ofer-goelion hyn yn Bethau, ac a allent beri i mi fod yn dra hwyrfrydig, i roddi dim help, nac ich gwaith chwi yn goſſod allan, nac i grediniaeth un<g ref="char:EOLhyphen"/>dyn o ſtori llai rhyfeddol nâ'r hon a oſſodwyd allan gan Mr. <hi>Pereand.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:174192:2"/>Eithr fe ddarfu ir Gymdeithas y gefais i gyda'r Awdwr duwiol hwnnw, tra bûm i yn <hi>Geneva,</hi> a'r Anrheg y ryn<g ref="char:EOLhyphen"/>godd bôdd iddo ddwyn i myfi o'r llyfr hwn mewn Scri<g ref="char:EOLhyphen"/>fen, cyn ei brintio ef, mewn mann, lle yr oedd genni amſer cyfaddas i ymofyn, yn gyſtal ynghylch y ſcrifen<g ref="char:EOLhyphen"/>nydd, ac ynghylch rhai pethau yn y llyf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, fe ddarfu me<g ref="char:EOLhyphen"/>ddafi ir Gym<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eithas hon, ar ymofynia<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hyn, orchfygu ynofi ar y Diwedd (am y Traethawd hwn) fy holl a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>wyllysgarwch a'm annlineddia<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>afadwy i gredu pethau dieithr.</p>
+            <p>A chan fy môd yn deall, i chwi dderbyn cyfrif, oddi<g ref="char:EOLhyphen"/>wrth yr Yſgolhaig mawr a'r Gwr rhagorol hwnnw, eich Tâd, am Mr. <hi>Percaud</hi> ei hunan, ac am lawer o bethau yn perthynn iw lyfr ef: nid oes genni reſwm i dybied llai, ond mai megis ac y dûg eich gwybodaeth chwi yn y ieithoedd, o'r hon ac ir hon y mae y Traethawd hwn i gael ei gyfieithu, yr uchelfraint fwyaf iddo, ac a allo ei dderbyn oddiwrth Law cyfieithydd; felly y Bydd y Bri a'r Parch y rydd eich Henw chwi a'ch Tâd dyſcedig iddo, mor nerthol ac y dichon dim o'r nattur hynny fôd, i beri ir Darllenwyr pwyllog gredu cymmaint y pethau rhyfeddol y ſydd yntho, ac yr wyfi yn gobeithio eich bod chwi yn credu y Gwirionedd mawr hyn, o'm bôd i chwi,</p>
+            <closer>
+               <salute>Syr,</salute>
+               <signed>
+                  <hi>Yn ffr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd tra chariadus ac yn W<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſana<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>wr goſtyngedig</hi> Robert Boyle.</signed>
+            </closer>
+         </div>
+         <div type="English_translators_acceptance">
+            <pb n="4" facs="tcp:174192:3"/>
+            <head>Yr Anrhydeddus a'r tra rhagorol mewn Duw<g ref="char:EOLhyphen"/>ioldeb a Dyſc Mr. <hi>ROBERT BOYLE.</hi>
+            </head>
+            <opener>
+               <salute>Syr,</salute>
+            </opener>
+            <p>MEwn ufydd-dod ir Gorchymyn y ryngodd bôdd i chwi ei roddi i mi, myfi a gyfieithiais y ſtori ryfeddol hon, teilwng iw gwybod gan bawb, megis peth ſy'n gwaſnaethu yn rhagorawl, i argyhoeddu yr Athiſtiaid (ſef y Sawl nid yw 'n credu fod Duw) a'r Sawl nid yw ond hanner credu, o'r amſeroedd hyn: y rhai gan mwyaf a berſwadiant eu hunain, nad oes yn y Byd y fath beth ac un rhwy ſylwedd Yſprydol, anghor<g ref="char:EOLhyphen"/>phorol, a deallus. A rhai o honynt a ddywedant y peth y mae y rhan fwyaf o honynt yn ei feddwl, <hi>Mai Pe gall<g ref="char:EOLhyphen"/>ent hŵy gael un math o ſiccrwydd fod Cythreuliaid, yna y credent hwy hefyd fod Duw.</hi>
+            </p>
+            <p>Ac i gadarnhau y rhain, ſy'n cymmeryd arnynt yr Enw o wyr ſynhwyrol iawn, yn eu hanghrediniaeth echry<g ref="char:EOLhyphen"/>ſlon, braidd y datcuddia Satan ei hunan un-waith mewn Oes, mewn un math o agwedd weledig, neu fel y gellir ei glywed ef; ond naill ai i Ddynion gwael anwybodus, ac ir naturiaethau fwyaf annifeilaidd, mewn rhwy anial<g ref="char:EOLhyphen"/>wch wyllt bellennig, neu ynte os yng hyfeillach ſwyn<g ref="char:EOLhyphen"/>gyfareddwyr, y rhai ydynt gyfrwyſach, y mae hynny yn unic mewn ymddiddan ddirgel; fel y cyfrifi i cyfa<g ref="char:EOLhyphen"/>ddefiad y rhai cyntaf megis peth yn tarddu allan o Darth tew, a geri neu felancholi lly<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lyd, fel pe bae hynny yr unic Ddiawl, ac ſydd yn ffurfio cyfarfodau a dawnſiau 'r witſhod yn eu mhennyddiau hwynt; ac fel y cyfrifed
+<pb n="5" facs="tcp:174192:3"/>
+proffes y lleill yn Dwyll Dynion Drwg, y cyfryw ac ydyw yr holl ſwyngyfaredd-wyr.</p>
+            <p>Ac yn yr un môdd, pan y ſonnier wrthynt am ddynion â Cythreuliaid ynthynt, y maent yn bwrw afreolaeth y rheini ar glefydau neu ar hudoliaeth. A gwir ydyw fod y Diawl yn gwneuthur y niwed mwyaf, lle y gwelir ac y cly<g ref="char:EOLhyphen"/>wir ef leiaf, a lle y gochilir leiaf rhagddo. Ac am hynn 'r wi 'n credu yn ddilys, nas gwnaeth efe fwy o gam â'i Deyrnas mewn llawer Oes, nag y wnaeth efe trwy am<g ref="char:EOLhyphen"/>lygu ei hun mor eglur ac mor agored yn y pethau a ad<g ref="char:EOLhyphen"/>roddir ymma. Canys trwy hyn ni adawodd efe le yn y Byd, i Anghrediniaeth yr Athiſtiaid haerllyg i redeg iddo. Ac er bod hwn yn Gythrael cyfrwys, etto yn hyn o ran, nid oedd efe yn gwbl ddyſgedig yn Neddfau uffern.</p>
+            <p>Llawer o Draethiadau ſydd allan ynghylch cythreuli<g ref="char:EOLhyphen"/>aid yn amlygu eu hunain: eithr yn Hiſtori yr efengyl y mae y rhai ſiccraf, y môdd y llefarodd y Diawlaid yn grôch, yn y cyrph a feddiannaſant, yng wydd tyrfaoedd mawrion; yr hyn a wnaethant hwy, wedi gwaſcu ar<g ref="char:EOLhyphen"/>nynt a'u brawychu gan breſennoldeb Arglwydd y Bywyd, eu Llywydd a'u Barnwr.</p>
+            <p>Eithr ni fynegodd un Hiſtori, na ſanctaidd nac haloge<g ref="char:EOLhyphen"/>dig, na hên na newydd, y fath amlygiad ewyllyſgar, cy<g ref="char:EOLhyphen"/>hoeddus, parhaus, a di-wâd, o eiddo 'r Yſpryd aflan, ac y mae hon yn ei fynegi. Canys nid oedd cynnefin Gyrchfa y cythrael hwn, at Swyn-gyfareddwyr a De<g ref="char:EOLhyphen"/>wineſſau, eithr at Ddynion duwiol; A hynny nid mewn Congl, neu mewn Anialwch, ond yng hanol Dinas fawr, mewn Ty, lle yr oedd llaweroedd yn dyfod beunydd i wrando arno fo 'n llefaru, a lle 'roedd rhai o grefyddau gwrthwyneb iw gilydd yn ymgynnull ynghyd. A pha<g ref="char:EOLhyphen"/>rodrwyd y rheini, i wradwyddo y Sawl nid oeddynt o'u barn, a fu yn Achos, nid yn unic i Ben-llywodraethwr, eithr hefyd i Eſcob y Lle, i Holi y matter yn fanol, trwy yr hyn y cyflawn gadarnhawyd Gwirionedd y peth.</p>
+            <p>Yr holl Bethau hyn, a llawer ychwaneg y fynegwyd
+<pb n="6" facs="tcp:174192:4"/>
+im Tâd parchedig, pan yr oedd efe yn Ben-llywydd yng. Hymmanfa Eglwyſwyr y Deyrnas yn y Parthau hynny, gan y Gwr y bu 'r afreolaeth hyn yn ei Dy, ſef, Awdwr y Llyfr hwn, Gweinidog duwiol, pwyllog, a pharchedig, yr hwn (os yw efe yn awr yn fyw) ſyd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tu hwnt i bed<g ref="char:EOLhyphen"/>war ugain oed. Fe ſcrifennodd y Traethawd hyn, pan yr oedd y pethau yn newydd yn ei goffadwriaeth ef, ond nis printiodd efe mo hono nes ym mhen un-mlynedd a dengain gwedyn, yn y flwy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dyn 1653, wedi ei gym<g ref="char:EOLhyphen"/>mell i w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>euthur felly, trwy yr amryw Draethiadau o'r ſtori hon, a waſcarwyd ar llêd, a rhai o honynt hwy yn <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nghyttun ai gilydd. A chyda hwn fe oſododd allan Lyfr ynghylch Cythreuliaid a Witſhod, o'r E<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w <hi>Daemo<g ref="char:EOLhyphen"/>nologia,</hi> llyfr y dàl ei ddarllain.</p>
+            <p>Yn yr holl brofedigaethau hyn, fe ymddygodd ei hu<g ref="char:EOLhyphen"/>nan yn ddoeth, yn wrol ac yn dduwiol; canys fo wrth<g ref="char:EOLhyphen"/>wynebodd y Diawl yn waſtadol yn ei amryw rithiau, pa un byrnag ai o Angel y goleuni, neu ynte o Elyn cy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oe<g ref="char:EOLhyphen"/>ddus i Dduw. Fo'i temptiwyd ef gan yr yſpryd drwg, weithie i fod yn rhy fanol, weithie i fydoldeb, weithie i arſwydo, weithie i gellwair a digrifwch: eithr yr un oedd y Gwr da bob amſer, ſef, yn ſobr, yn ddianwadal ac yn ddifrifol, yn ceryddu y Cythrel, ac yn arfer Ar<g ref="char:EOLhyphen"/>fau cyfiawnder yn ei erbyn ef, ar y llaw ddehau ac ar y llaw aſſwy. Ac yn ei hyder ar Dduw ni bu pâll arno; canys dros yr holl amſer o'r e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ledigaeth hyn, ni adawodd Duw ir Cythrael bywiog hwnnw wneuthur iddo niweid yn y byd, nac i un o'i eiddo ef, nac yn eu perſonau, nac yn eu Da; ac ym mhen can nhiwrnod, fe fwriodd Duw y Cythrel allan o'i Gaſtell y drais-feddiannod efe.</p>
+            <p>Mae fy mhoen i yng-hyfieithiad y llyfr hwn mor wael, ac nas dodaſwn i fy Enw wrtho, oni buaſſe i chwi dybied Syr, y bydde fyng wybodaeth i ynghylch gwirionedd y ſtori hon, trwy 'r Adroddiad a wnaeth fy Nhâd parche<g ref="char:EOLhyphen"/>dig o honi wrthifi, yn beth cadharnhad iw ſiccrwydd hi. Myfi a'i derbynniais hi o ail law, etto o law ſicer.
+<pb n="7" facs="tcp:174192:4"/>
+Eithr chychwi ſyr, a gawſoch oddiwrth yr Awdwr ei hunan hyſpyſrwydd agoſach, yr hyn wedi ei oſſod o flaen y llyfr hwn, a rydd iddo fynediad rhwydd a diddadl, i gael ei dderbyn i Grediniaeth y Darllenwyr manolaf, a doethaf. Ac ni bydd en Tyb hwynt ddim yn llai am leſáad y ſtori hon, nag y bydd e am ei gwirionedd hi, pan y gwelant hwy, fod Gwr, mor uchel mewn Dyſc, mor ddwfn mewn Barn, mor ddiragrith mewn Duwiol<g ref="char:EOLhyphen"/>deb, ac mor hynod mewn Gweithredoedd da, gwedi barnu, y bydd hi o ddefnydd rhagorol i argyhoeddu y rhai nid yw 'n credu, ac i gadarnhau y Sawl ſy yn y ffydd. Minne hefyd fy hunan trwy hyn a gâf yr uchel-fraint hon, o fod yn gydnabyddus ir Byd, fy môd i gwedi fy anrhydeddu a'ch Gorchmynnion chwi, a bod yn hôff gennif i ddangos fy hunan, fy môd i chwi</p>
+            <closer>
+               <salute>Syr,</salute>
+               <signed>
+                  <hi>Yn dra goſtyngedig ac ufydd Waſa<g ref="char:EOLhyphen"/>naethwr, a gwir Anrhydeddwr</hi> Peter Du Moulin.</signed>
+            </closer>
+         </div>
+         <div type="Welsh_translator_to_the_reader">
+            <pb n="8" facs="tcp:174192:5"/>
+            <head>Llythyr at y Darllenwyr.</head>
+            <opener>
+               <salute>Ddarllenwyr cariadus,</salute>
+            </opener>
+            <p>DYmma i chwi ſtori wedi ei chyfieithu yn gymraeg, yn cynnwys ynddi gyfrif, ynghylch pethau rhy<g ref="char:EOLhyphen"/>feddol y wnaeth ac a ddwedodd Yſpryd drwg, yn nhy Gweinidog duwiol yn <hi>Ffraingc,</hi> wedi ei ddanfon ich plith, ich cadharnhau chwi yn y Gwirionedd hyn, ſef, <hi>Bôd cy<g ref="char:EOLhyphen"/>threuliaid;</hi> mewn gobaith, mae po fwyaf y bo chwi we<g ref="char:EOLhyphen"/>di eich ſefydlu yn y grediniaeth hon, mae mwy fydd eich gofal chwi ymma, i ochelyd profedigaethe yr yſprydion melltigedig hyn, rhag ofn i Dduw eich taflu chwi i Uff<g ref="char:EOLhyphen"/>ern, i fyw gyda nhwy ar ól hyn.</p>
+            <p>Ac er bod y Scrythyrau ſanctaidd yn dala allan yn eg<g ref="char:EOLhyphen"/>lur ddigon, <hi>Fod Cythrculiaid;</hi> etto pan bo Duw yn rhoddi i ni, trwy ei ragluniaeth neu drefniad o fatterion y Byd, ychwaneg o Siccrwydd am y Peth, Gweddus yw i ni ddal ſulw ar, a chymmeryd Addyſg oddiwrth hynny.</p>
+            <p>
+               <hi>Megis y mae Rhwymiad</hi> Satan <hi>rhwy brydie, a'i Attaliad ef rhag gwneuthur drwg i neb, yn ûn o Drugareddau Duw ir Byd: felly y mae ei Ollyngiad ef yn rhydd ar brydie eraill, i frawychu ac i wneuthur niwed i Ddâ ac i Ddynion, yn ûn o wialennau a Barnedigaethau Duw ar y Byd, i brofi ffydd ac amynedd y Duwiol megis y profwyd</hi> Job, <hi>neu ynte i goſpi yr Annuwiol megis y coſpwyd</hi> Ahab, <hi>twy ollwng</hi> Satan <hi>yn rhydd arnynt; ac am hynny peth yw hyn i ddal ſulw arno, ac i dderbyn Addyſg oddiwrtho; canys fel hyn y dywed yr Arglw<g ref="char:EOLhyphen"/>ydd,</hi> Gwrandewch y Wialen a Phwy a'i hordeiniodd. <hi>Nat.</hi> 12.12. <hi>Dat.</hi> 20.1, 2, 3. 1 <hi>Bren.</hi> 22.22. <hi>Mic.</hi> 6.9.</p>
+            <p>Ac fel y gwasnaetha y Traethawd hwn, ich ſefydlu chwi yn y Gwirionedd mawr hyn, ſef, <hi>Bôd Cythreuliaid;</hi> felly hefyd y gwasnaetha fo, ich cadharnhau chwi mewn Gwirionedd arall ſydd fwy pwyſig o lawer, ſef, <hi>Bôd Duw:</hi> ac am hynny y dilyt bod yn grefyddol ac yn raſol, fel y
+<pb n="9" facs="tcp:174192:5"/>
+gellir bod ar y ffordd i gael ei ffafor ef ymma, ac i fyw gydag ef ar ôl hyn.</p>
+            <p>Fe ddichon Rheſwm Dyn Gaſclu oddiwrth amryw Be<g ref="char:EOLhyphen"/>thau, <hi>Fod Duw,</hi> ac yn enwedig oddiwrth Waith y Grea<g ref="char:EOLhyphen"/>digaeth, ac oddiwrth y Dychryn ſydd yng Hydwybodau Dynion ar ôl gwneuthur rhyw fowr-ddrwg, ac oddi<g ref="char:EOLhyphen"/>wrth yr yſtyriaeth hyn o fod Cythreuliaid.</p>
+            <p>Pan y gwelo Dyn y Nefoedd, yr Haul, y Lleuad, y Sêr, y Ddaiar, a'r Moroedd, pob peth yn drefnus yn ei Lê, y naill yn wſnaethgar ir llall, a'r cwbl yn wſnaethgar i Ddyn, y Creadur pennaf yn y Byd, fo Ddichon, gaſclu oddiwrth hynny trwy Reſwn, mae Siccr a Dilys ydyw, <hi>Fod Duw; canys fel y dwed Mr.</hi> Perkins, <hi>Pan yſtyriwyf ffrâm</hi> (Gwêdd) <hi>a rhyfeddol wneuthuriad y Byd, yr wyfi yn tybie d ynof fy hun, nas galle Greaduriaid mor druain ar ſydd ynddo</hi> (megis y Dynion, yr Annifeiliaid, yr Adar a'r Pyſ<g ref="char:EOLhyphen"/>god) <hi>wneuthur mo hwn, ac nas galle 'r Byd chwaith ei wneu<g ref="char:EOLhyphen"/>thur ei hun: ac o herwydd hynny, gan na alle 'r creaduriaid wneuthur mo 'r Byd, na 'r Byd chwaith wneuthur ei hun,</hi> Rhaid yw bod Duw <hi>(heb law y pethau hyn ôll) ar a wnaeth y Byd. Me<g ref="char:EOLhyphen"/>gis ac ped fae Gwr yn dyfod i Wlâd ddieithr, a gweled yno ryw Adeiliadau têg a chost-fawr</hi> (megis Tai a cheſtyll) <hi>ac etto heb gyfarfod yno ag un Creadur byw ond yn unig Ehe<g ref="char:EOLhyphen"/>diaid y Nefoedd, a Bwyſtfilod y Ddaiar, nis tybia hwnnw mai 'r Adar neu'r Annifeiliaid a gododd yr Adeiliadau hynny i fynu: ond Fo a ddeall ac a wyr yn y man</hi> (wrth Reſwm) <hi>mai naill ai y mae, neu fe a fu</hi> (ryw amſer) <hi>Ddynion yno ac a'u cododd hwynt i fynu: yn yr ûn môdd, wrth waith y Greadigaeth y <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ellir deall (wrth reſwm) Fod Duw, yr hwn a greawdd y cwbl.</hi> Rhuf. 1.20.</p>
+            <p>
+               <hi>Felly hefyd (medd Mr.</hi> Perkins) <hi>y dichon Dyn gaſclu trwy Reſwm, oddiwrth y Dychryn ſydd yng Hydwybodau Dynion, ar ôl gwneuthur rhyw fowr-ddrwg, mai dilys a ſiccr ydyw,</hi> Fod Duw: canys y neb a wnelo ryw Ddrwg, megis Llofruddiaeth, Godineb, Torr-priodas, Cabledd a'r Fath; er celu a chuddio o hono y Drwg a wnaeth (<hi>fel nas gwyppo un dyn byw ddim oddiwrtho</hi>) etto y mae efe yn clywed yn fynych iawn
+<pb n="10" facs="tcp:174192:6"/>
+y fath waſcfa yn ei gydwybod, mal pe byddei Tân uff<g ref="char:EOLhyphen"/>ern wedi ennyn oddi-fewn iddo: A rheſwm cadarn yw hwn i ddangos <hi>Fod Duw,</hi> ger bron gorſeddfaingc pa un y bydd rhaid iddo ddyfod i atteb am ei weithredoedd. <hi>Pſal.</hi> 14.5. <hi>Rhuf.</hi> 2.15.</p>
+            <p>Ac fel y bo i chwi weled pa fodd y dichon Rheſwn Dyn gaſclu <hi>Fod Duw</hi> gan <hi>fod cythreuliaid,</hi> yſtyriwch yr amryw Ddrygau y wnaeth <hi>Satan</hi> gynt, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el y crybwyllir am danynt yn y Scrythyrau.</p>
+            <p>Pwy a demptiodd ac a dynnodd <hi>Adda</hi> ac <hi>Efa,</hi> ac yn<g ref="char:EOLhyphen"/>ddynt hwy holl ddynol ryw i bechu, ac felly i ddeſtry<g ref="char:EOLhyphen"/>wio eu hunain ond <hi>Satan</hi> yr hên Sarph? <hi>Dat.</hi> 20.2.</p>
+            <p>Pwy a demptiodd <hi>Dafydd</hi> (mewn balchder) i beri rhifo pob pen yn ei Deyrnas, nes digio Duw, a dyfod plâ i ddifetha deng mîl a thrugain mîl oi bobl ef, ond <hi>Sa<g ref="char:EOLhyphen"/>tan?</hi> 1 <hi>Chron.</hi> 21.1.14.</p>
+            <p>Pwy a yrrodd y <hi>Sabeaid</hi> a'r <hi>Caldeaid</hi> i ddwyn Dâ <hi>Job,</hi> ac i ladd ei weiſion ef? a Phwy a ddaeth â Thân o'r A<g ref="char:EOLhyphen"/>wyr i loſci ei ddefaid ef, a gwynt o'r anialwch i daflu 'r Ty i lawr ar ei Blant ef nes ei lladd hwynt? a Phwy a darawodd Job ei hunan â chornwydydd blîn, o wadn ei droed hyd ei goryn ond <hi>Satan? Job, pen</hi> 1. <hi>a'r</hi> 2.</p>
+            <p>Pwy yn nyddiau 'n prynwr ar y Ddaiar ond rhyw Gy<g ref="char:EOLhyphen"/>threl a daflei Langc, weithie ir Tân, weithie ir Dwr, ac a'i dryllie ef hyd onis malei ewyn ac yr yſcyrnygei ei ddanedd, gan ddihoeni ar ei draed? <hi>Mar.</hi> 9.</p>
+            <p>Pwy ond Cythreuliaid yn amſer Chriſt a wnaeth rai mor greulon, fel nad allai neb fyned y ffordd yr oedd<g ref="char:EOLhyphen"/>ynt arni? ac wedi eu bwrw hwynt allan o'r Dynion, a myned o honynt i genfaint o Fôch, pwy ond y nhwy a wnaeth ir môch ruthro tros y dibyn, nes eu boddi oll yn y môr, ynghylch dwy fîl o honynt? <hi>Matth.</hi> 8. <hi>Mar.</hi> 5.</p>
+            <p>A thrwy gymmorth pwy ond trwy gymmorth Diaw<g ref="char:EOLhyphen"/>laid, y gwnaeth Conſurwyr, Rheibwyr a Witſhod ddry<g ref="char:EOLhyphen"/>ga<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>awrion, o amſer i amſer, i Ddâ <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c i Ddynion?</p>
+            <p>
+               <pb n="11" facs="tcp:174192:6"/>Yn awr gan fod y cythreuliaid oll, y pennaf a'r iſſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>af o honynt yn ddrwg ynthynt eu hunain, <hi>Joan.</hi> 8.44. 2 <hi>Pet,</hi> 2.4. a chan en bod hwy hefyd yn gyfrwys (me<g ref="char:EOLhyphen"/>gis ſeirph) i ddychymmig drwg i eraill, ac yn alluog i gyflawni hynny, fel y dangoſwyd o'r blaen, ac yn aml mewn nifer, canys yr oedd lleng <hi>(gwedi chwe mil o honynt)</hi> mewn un Dyn, <hi>Luc.</hi> 8. Ni allwn yn hawdd gaſclu trwy reſwm, <hi>mai rh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id yw bod Duw,</hi> ſef ûn ac ſydd uwch nag hwynt-hwy mewn <hi>Gallu,</hi> yn Dda yntho ei hu<g ref="char:EOLhyphen"/>nan, ac yn Dda wrth y Byd, i attal y cythreuliaid hyn, o ddiwrth wneuthur y Drygioni a ewyllyſient ei wneu<g ref="char:EOLhyphen"/>thur; oni bae hynny ni byddei ond ochain a galar ym<g ref="char:EOLhyphen"/>mhob mann.</p>
+            <p>Yr un Ddihenydd a ddaethe i <hi>Job</hi> ac a ddaeth iw Blant a'i Weiſion ef, oni buaſſe <hi>fod Duw</hi> i ddala <hi>Satan</hi> wrth gadwyn, fel nad allai fo fyned ym-mhellach nag yr oedd efe yn cenhadu iddo. <hi>Job.</hi> 2.6.</p>
+            <p>
+               <hi>Mae hyn yn ſiccr ac yn Ddilys, Oni bae bod Duw, ſef, Creawdwr, Meddiannydd, a Phen-llywodraethwr pob dim ôll, yr hwn ſydd anfeidrol mewn Doethineb, Toſturi, Tirio<g ref="char:EOLhyphen"/>neb, Trugarodd a Dai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ni, i edrych at, ac i ofalu am y Byd: ac oni bae ei fod efe hefyd yn llawn Gallu i ffrwyno, ac i gadw y Cychreuliaid hyn dan Llaw, ac iw hattal hwynt rhag bwrw eu llid a'r Dda ac ar Ddymon,</hi> Gwae, Gwae, Gwae <hi>a fydde ir holl Fyd.</hi>
+            </p>
+            <p>Nid ydyw yn afreidiol goſſod ar lawr y pethau hyn o <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>laen pobl, canys y mae Bagad yn byw yn y fath fôdd, fel pe ni baent yn credu (nen ar y lleiaf fel pe ni baent yn credu fel y dylent) <hi>Fod Duw, Fod Diawl, Fod Nef, Fod <g ref="char:V">Ʋ</g>ffern.</hi>
+            </p>
+            <p>Pe bae pobl yn credu hyn fel y dylent, hwy a rodient gyda 'r rhan lleiaf o ddynion, yn y ffordd gûl ſydd yn arwain at <hi>Dduw ir Nef,</hi> ac nid gyda 'r rhan fwyaf yn y ffordd lydan ſydd yn arwain at y <hi>Diawl i <g ref="char:V">Ʋ</g>ffern.</hi> Mat. 7.13, 14. <note n="*" place="bottom">
+                  <hi>Luc</hi> 15.21.</note> Hwy a edifarhaent am eu pechodau hên a newyd, <note n="†" place="bottom">
+                  <hi>Luc.</hi> 18.13.</note> ac a daer geiſient Druga<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edd a heddwch
+<pb n="12" facs="tcp:174192:7"/>
+Duw trwy <hi>Jeſu Ghriſt:</hi> 
+               <note n="‖" place="bottom">1 <hi>Joan.</hi> 4.19. <hi>Heb.</hi> 12.28</note> Hwy a garent Dduw ac a'i hof<g ref="char:EOLhyphen"/>nent ag ofn parchedig, ac a'i gwaſanaethent, gan <note n="*" place="bottom">1 <hi>Joan.</hi> 2.3, 4.</note> ymegnio gadw ei orchymynnion ef <note n="†" place="bottom">
+                  <hi>Eſa.</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.2.</note> Hwy a grynent wrth eu fy gythion ef, <note n="‖" place="bottom">
+                  <hi>Pſal.</hi> 1.2.</note> ac a ymhyfrydent yn ddirfawr yn ei Air ef ac a <note n="*" place="bottom">
+                  <hi>Gal.</hi> 5 24.</note> ochelent i ddigio ef trwy bechu yn ei erbyn ef.</p>
+            <p>Eithr och Dduw nid oes ond nifer fechan o'r Byd yn byw felly; canys os edrychwn ni ar ymarweddiad cyffre<g ref="char:EOLhyphen"/>din y Byd, ni allwn weled, fod y rhan fwyaf o bobl yſy<g ref="char:EOLhyphen"/>weth, yn Weithredwyr anwiredd, a'i bod nhwy yn ſyr<g ref="char:EOLhyphen"/>thio i bechod, nid trwy w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndid fel y mae 'r Duwiol yn ſyrthio iddo, ond eu bod nhwy yn gwneuthur arfer gyffre<g ref="char:EOLhyphen"/>din o hono; yr hyn beth nis byddei, pe bae Gras ynddynt, a phe baent yn credu fel y dylent. <hi>Rhuf.</hi> 6.14.</p>
+            <p>Gwelwn fel y mae 'r Byd yn heidio a Thyngwyr, Rheg<g ref="char:EOLhyphen"/>wyr yn offrymmu eu Heneidiau ir Diawl ar bob achos, Ha<g ref="char:EOLhyphen"/>logwyr ſabboth, Putteinwyr, Rhagrithwyr, Maliſwyr, Celwyddwyr, Anudonwyr, Enllibwyr, a Gwatwarwyr ſancteiddrwydd.</p>
+            <p>Gwelwn ym-mhellach lawned yw'r Byd o Feddwon, Beilchion, Cebyddion, Ffeillſtion, Lladron, Anrhugarogi<g ref="char:EOLhyphen"/>on wrth y tlawd, ac o Annuwiolion, ſef, rhai nad yw 'n galw ar Dduw na'i foli ef, nac o'r neilltu wrthynt eu hu<g ref="char:EOLhyphen"/>nain, nac yn eu Teuluoedd, nac yſgatfydd uwch ben eu bwyd wrth giniawa a ſwperu.</p>
+            <p>Gwelwn hefyd mal yr ydys yn gwneuthur cam ag ym<g ref="char:EOLhyphen"/>ddifaid, a Gwragedd gweddwon, a'r gwann ei gallu i am<g ref="char:EOLhyphen"/>ddiffyn eu huanin trwy gyfraith rhag gorthrymderau, ac a Gweithwyr tlodion, trwy beidio talu iddynt eu llawn gy<g ref="char:EOLhyphen"/>floge, neu ynte trwy eu talu hwynt, mewn yd ag enllyn gwael, ai bris tu hwnt i bris y goreu ar y Farchnad: a gw<g ref="char:EOLhyphen"/>elwn fel yr ydys yn malu wynebau Deiliaid ac Hafodwyr, gan ddelio yn galed ac yn doſt ag hwynthwy, ac fel yr ydys yn twyllo gwirionaid am eu Tai a'u Tiroedd mewn amryw leoedd.</p>
+            <p>
+               <pb n="13" facs="tcp:174192:7"/>Er nad yw'r rhain a'r cyffelib yn gwadu mewn gei<g ref="char:EOLhyphen"/>rie Fod Duw, a Diawl, a Nef, ac Uffern, etto y ma<g ref="char:EOLhyphen"/>ent yn gwneuthur felly trwy eu Gweithredoedd. <hi>Titus</hi> 1.16.</p>
+            <p>Pe bae pobl yn credu y pethau hyn fel y dylent, gan eu ſicerhau eu hunain yn eu cylch hwynt, trwy eu dwys yſtyried hwynt yn eu calonnau, a'r Sail ſydd gennym am gredu eu bod hwynt, fe fydde 'r gredi<g ref="char:EOLhyphen"/>niaeth honno yn Achos, o fod gwell wyneb gan y Byd nag y ſydd gantho 'rwan: ac ni byddei 'r Annu<g ref="char:EOLhyphen"/>wioldeb, a'r Anghyfiawnder; a'r Anrhugarogrwydd, a'r Bradwriaeth, a'r Heidiau eraill o'r pechodau hynny yntho ac y ſydd yntho 'rwan; eithr fe fyddei pobl yn byw, yn Dduwiol, yn Sobr, ac yn Gyfiawn yn y Byd preſennol, a thrwy hynny hwy a ddangoſſent, fod ynddynt wir ddymyniad, i fyw ar ôl hyn gyda Duw yn y Nêf, a gwir Ofal i ochelyd byw gyda 'r Diawl yn Uffern.</p>
+            <p>Meddyliwch yn fynych, <hi>Fod Duw</hi> yr hwn a roddes i ni Gyfraith ſanctaidd, a'n bod ninne wedi torri 'r gy<g ref="char:EOLhyphen"/>fraith honno <note n="(1)" place="bottom">
+                  <hi>Pſal.</hi> 40.12.</note> mîl a mîl o weithie, <note n="(2)" place="bottom">
+                  <hi>Rh<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f.</hi> 6, 23.</note> a'n bôd ni yn haeddu Damnedigaeth tragwyddol yn Uffern gyda 'r Diawl a'i Angelion, am y pechodau a wnaethom ni yn erbyn y Gyfraith honno, <note n="(3)" place="bottom">
+                  <hi>Act.</hi> 4.12.</note> ac nad oes ffordd i gael maddeuant am danynt ond yn unig trwy ac er mwyn Jeſu Griſt, <note n="(4)" place="bottom">
+                  <hi>Mar.</hi> 16.16.</note> ac na cheidw Chriſt neb ond y Sawl ſy'n credu ynddo <note n="(5)" place="bottom">
+                  <hi>Luk.</hi> 13.3.</note> â chalon edifeiriol am eu pechodau, <note n="(6)" place="bottom">
+                  <hi>Eſay.</hi> 5<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.7.</note> ac â gwir bwrpas ynddynt i droi oddiwrthynt, <note n="(7)" place="bottom">
+                  <hi>Hebr.</hi> 12.14.</note> ac i fyw yn ſanctaidd o hynny allan: <note n="(8)" place="bottom">
+                  <hi>Matth.</hi> 25.46.</note> a meddyliwch hefyd y caiff y rheini fy<g ref="char:EOLhyphen"/>wyd tragwyddol ar ôl hyn gydag efe yn y Nef, mewn mawr <note n="(9)" place="bottom">
+                  <hi>Matth.</hi> 13.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3.</note> Ogoniant a llawenydd; ond y bydd <note n="(10)" place="bottom">
+                  <hi>D<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 21.8. <hi>Mat.</hi> 25.41.</note> rhan Gweithredwyr anwiredd yn y llynn ſydd yn lloſci â Thân a Brwmſtan yn eos oeſoedd, gyda 'r Diafol a'i Angelion; <note n="(11)" place="bottom">1 <hi>Corinth.</hi> 2.9.</note> ac mai megis ac y bydd Gogoniant y
+<pb n="14" facs="tcp:174192:8"/>
+Duwiol yn y nef tu hwnt i ddim ar a welodd Llygad, ar a glywodd Clûſt, nac a ddaeth i Galon Dyn erioed i fe<g ref="char:EOLhyphen"/>ddwl am dano; <note n="(12)" place="bottom">
+                  <hi>Mar.</hi> 9.44.</note> felly yn yr on môdd y bydd poenau 'r Annuwiol yn Uffern, tu hw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t i ddim ar a welwyd, ar a glybwyd, nac ar a d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aeth i galon Dyn i feddwl am da<g ref="char:EOLhyphen"/>no.</p>
+            <p>Eithr nid yw pobl annnwiol yn meddwl am, nac yn credu y pethau hyn fel y dyle<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t: y Sawl o honynt ac ſydd yn credu fod Duw, hwy a fynnant ei fod ef yn Dr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>garedd i gyd, lle y mae efe yn gyfiawn i goſpi 'r Anghredadwy a'r Anedifeiriol yn drwm ac yn doſt, yn gyſtal ac yn Drugarog i fadde ac i gadw y ffyddloniaid neu 'r Ediferiol: ac am hynny, er annuwioled y mae rhai yn byw, ac er eu bod nhwy yn chawregu meddw<g ref="char:EOLhyphen"/>dod at ſyched; etto y maent yn dywedyd heddwch wrth eu calonnau eu hunain, y peth nid yw Duw yn ei ddywedyd wrthynt, ond y mae efe yn eu bygwyth hwynt yn galed yn ei Air, eithr nid ydynt yn credu y bydd eu Diwedd hwynt yn ôl y Bygythion hynny. <hi>Exod.</hi> 34.6, 7. <hi>Deuteron.</hi> 29.19, 20. <hi>Eſay.</hi> 57.21.</p>
+            <p>Myfi a glywais ſtori am wr a ddeffroodd o farw i fyw, a dywedyd o hono fo y Geiriau hyn, ſef, <hi>Nid oes neb yn credu, Nid oes neb yn credu, Nid oes neb yn credu:</hi> A phan y gofynnwyd iddo, Beth oedd yr hyn nad oedd neb yn ei gredu; Fo atrebodd, <hi>Nid oes neb yn credu, mor Fanol y mae Duw yn Holi, mor Gyfiawn y mae Duw yn Barnu, ac mor Doſted y mae Duw yn Coſpi.</hi> Ond yr wyfi 'n cofio yr hyn a ddywedodd <hi>Abraham</hi> wrth <hi>Difes,</hi> Oni wrandawant ar <hi>Moſes</hi> a'r Prophwydi,
+<pb n="15" facs="tcp:174192:8" rendition="simple:additions"/>
+               <hi>(hynny yw ar y ſcrythyrau a ſcryfennwyd gan</hi> Moſes <hi>a'r Pro<g ref="char:EOLhyphen"/>phwydi)</hi> ni chredant chwaith, pe codei un oddi wrth y meirw <hi>Luc.</hi> 16.31. Meddyliwch am hyn, a Duw a roddo i chwi Ddeall ym mhob peth. Byddwch wych, yr wyfi 'n gorphwys</p>
+            <closer>
+               <dateline>
+                  <hi>Abertawe y</hi>
+                  <date>13. <hi>o Fîs Hydref,</hi> 1680.</date>
+               </dateline>
+               <signed>Eich Gwaſanaethwr yn yr Arglwydd <hi>Stephen Hughes.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174192:9" rendition="simple:additions"/>
+            <pb n="16" facs="tcp:174192:9"/>
+            <head>Addroddiad Cywir, O'r Pethe Pennaf, y wnaeth, ac a ddwedodd <hi>Yſpryd Aflan.</hi> YM MASCON, &amp;c.</head>
+            <p>Y Pedwrydd dydd ar ddec o fîs <hi>Medi,</hi> yn flwyddyn 1612, mi aethym gydag un o He<g ref="char:EOLhyphen"/>nuriaid yr Eglwys ym <hi>Maſcon,</hi> i gymman yr Eglwyſwyr yn nhre <hi>Couches;</hi> ac ni a ddy<g ref="char:EOLhyphen"/>chwelaſom ym mhenn pum nhiwrnod.</p>
+            <p>
+               <hi>A chwedi dyfod adref, mi welwn yn eglur, wrth wyneb<g ref="char:EOLhyphen"/>pryd fy ngwraig a'i morwyn, eu bôd nhwy mewn dychcyn mawr iawn.</hi>
+            </p>
+            <p>A phan yr ymofynnais i am yr achos o'r newidiad mawr hwnnw ynddynt; fe ddywedodd fy ngwraig wr<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hif, ddarfod i ryw beth, ni wydde hi pa beth, y nôs
+<pb n="18" facs="tcp:174192:10"/>
+gwedi fy myned i oddi cartref, dorri ei chwſc gyntaf hi; trwy dynnu o amgylch, gyda nerth a thrwſt mawr, gwrtens y gwely yn yr hwn yr oedd hi yn gorwedd:</p>
+            <p>A darfod ir forwyn, yr hon oedd yn cyſcu mewn gwely arall yn yr un ſtafell, gwedi clywed hynny, gy<g ref="char:EOLhyphen"/>fodi ar frys a rhedeg atti, i wybod beth oedd y <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t<g ref="char:EOLhyphen"/>ter; eithr nas gwelodd hi ddim; ie gael o honi ddry<g ref="char:EOLhyphen"/>ſe a ffeneſtri 'r ſtafell honno ynghaued yn glô iawn, fel y cauodd hi hwynt cyn ei myned ir gwely.</p>
+            <p>Dywedodd fy ngwraig wrthif hefyd, ddarfod id<g ref="char:EOLhyphen"/>di hi, oblegit yr hyn y ddigwyddodd, heri ir for<g ref="char:EOLhyphen"/>wyn orwedd gyda hi yr ail noôs: ond c<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> gynted ac yr oeddynt yn y gwely, glywed o honyn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vy ryw beth yn tynnu 'r blancedi oddi arnynt: a darfod ir forwy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ar hynny gyfodi o'r gwely, a myned allan o'r ſtafell hon<g ref="char:EOLhyphen"/>no, yr hon oedd yng-hanol y Ty; eithr cael o honi y drws gwedi folltio, nid yn unig o'r tu fewn, megis y bolltiodd hi ef, eithr hefyd o'r tu allan; a chyn gallel o honi wybod hynny, pan y ceiſiodd hi agoryd y drws gwedi ei ddadfolltio ef, hi a glywe ymoſodiad yn ei hei<g ref="char:EOLhyphen"/>byn, megis a phe bua<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ddyn o'r tu allan yn ym<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thio yn <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>thwyneb iddi.</p>
+            <p>A <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>han welodd y forwyn, ei bod hi gwedi ei chau i fy<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, hi a aiwodd ar langc, yr hwn oedd yn gorwedd mewn ſtafell arall, yr y rhan flaenaf o'r ty; ac efe a gyfododd i agoryd y drws iddi; eithr nid ynganodd hi air wrtho ef ynghylch yr afreolaeth hyn, rhag ofn ei frawychu ef: ond gwedi e<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yn canwyll, hi gan<g ref="char:EOLhyphen"/>fydde r lleſtri prês a pheitir gwedi en taflu o bobtu yn y gegin; â pha rai y gwnaeth yr yſpryd drwg y no<g ref="char:EOLhyphen"/>ſon honno, a'r wneir (<hi>yn-ffraingc</hi>) ar briodas hen widw, nen wrth gaſglu gwenyn i leſter, drwy guro pedyll a chro<g ref="char:EOLhyphen"/>chanau.</p>
+            <p>
+               <pb n="19" facs="tcp:174192:10"/>
+               <hi>Wedi clywed hyn, nid allafi lai na chyfaddef, nas darfu i ryw fraw fy nala i; etto mi bwrp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſais, na rown ormod coel ir fath ſtori ryfeddol, ac nas llwyr anghrredwn hi he<g ref="char:EOLhyphen"/>fyd.</hi>
+            </p>
+            <p>Amryw feddyliau a redent i'm calon. <hi>Weithie mi yſty<g ref="char:EOLhyphen"/>ri<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n wendid ac <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fn gwragedd: weithie mi dybiwn, nad o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dd y cwbl ond <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> rhyw ddryg-ddyn cuddied<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g yn y ty,</hi> Am hynny cyn fy myned ir gwely, mi chwiliais holl gonglau 'r ty yn fanol, gan folltio a barro 'r holl ddry<g ref="char:EOLhyphen"/>ſe, a chau 'r ffeneſtri, ie a thyllau 'r cathe, heb adel dim heb edrych atto, ac a alle roddi achlyſur i dybied mai twyll oedd y peth. Ac ar ol gweddio gyda 'm teulu, mi aethym i'm gwely, tra 'r ydoedd fy ngwraig a'm morwyn yn nyddu wrth y tan, a lamp yn lloſci ar y bwrdd.</p>
+            <p>
+               <hi>Braidd yr oeddwn yn fy ngwely, ond wele mi glywn ſwn mawr yn dyfod oddiwrth y gegin, megis rholiad bai<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> goed tân, wedi d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>flu â n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rth mawr. Clywais hefyd <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> yllod pared y gegin, weithie megis â phen bys, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> megis ag ewinedd, weithie megis â dwrn; ac <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndfedd blwy<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> y dyrnodie.</hi> Llawer o bethe hefyd a daf<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> yr erbyn yr aſtylled hynny, megis pláts, trenſh<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e, a lledwade; a gwnaed cerdd â hiddl o breês (g<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ccian a'i modrwyau) ac â rhai offerynnau e<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> gegin.</p>
+            <p>Ar ôl gwrando 'n ddyfal ar y trwſt hyn, mi gyfod<g ref="char:EOLhyphen"/>ais o'm gwely, a chan gymmeryd fy ngbleddyf, mi aethym ir ſtafell, lle y cedwid yr holl ddwndwr hyn, a'r forwyn yn dala 'r ganwyll o'm blaen; ac a chwiliais yn fanol, i edrych a oedd neb wedi ymguddio yn y ty; ond pan nas cefais i neb, mi a ddychwelais i'm gwely. A chwedi dechreu o'r dwndwe drachefn, mi godais eilchwaith, ac a chwliais drachefn, ond i gyd yn ofer.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> y d<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hreuais i ddeall mewn gwirionedd, nad allei hy<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> i gyd ddyfod oddiwrth neb, onid oddiwrth
+<pb n="20" facs="tcp:174192:11"/>
+rhyw yſpryd drwg; ac felly mi dreuliais y rhan arall o'r nôs, yn y cyfryw fraw, ac ſydd hawdd i un-dyn ddeall pa fath ydoedd.</hi>
+            </p>
+            <p>Y dydd neſs;af yn fore iawn mi fynegais y matter i Henuriaid yr Eglwys: ie mi a'i bernais yn gymmwys hyſpyſſu 'r peth i Mr. <hi>Ffrancis Tornus,</hi> Scrifennydd y Brenin, a Gwr o gyfraith ym <hi>Maſcon,</hi> er ei fod e'n bapiſt ac yn wreſog iawn tros ei grefydd; a chyn diweddn mi roddaf fy rheſymme am hynny. A chwedi hyſpyſſu 'r matter iddynt, ni ffaelodd ar un o honynt ddyfod, i ym<g ref="char:EOLhyphen"/>weled â mi bob nôs, naill ai i gyd ynghyd, neu ynte at gylch, cyhyd o amſer ac y parháodd yr aflonyddwch hwnnw yn fy nhy, gan wiliad gyda mi hyd hanner nos, a weithie 'n hwy.</p>
+            <p>Y nôs gyntaf ac y daethant hwy, a rhai noſweithie ar ôl hynny, fe ymattaliodd yr yſpryd drwg, oddiwrth wneuthur na thrwſt na chynwrf yn y byd yn eu gwydd hwynt, fel petteiſe 'n anewyllyſgar i wneuthur ei hun yn gydnabyddus iddynt.</p>
+            <p>Eithr ar y diwedd, ar yr ugeinfed dydd o fîs Medi, yng-hylch naw o'r glôch, fo ddatcuddiodd ei hun yn am<g ref="char:EOLhyphen"/>lwg pwy 'n ydoedd efe: <hi>canys yn ein gwydd ni òll, a Mr. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> un o'r cwmpeini, fo ddechreuodd chwibanu â <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ac uchel iawn deir-gwaith neu bedair; ac yn y <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ffurfiodd leferydd, y cyfryw ac y allem ni ei ddeall, et to yn lled gryg, a hynny ynghylch tri neu bedwar cam oddi<g ref="char:EOLhyphen"/>wrthym fel y tybygem ni.</hi>
+            </p>
+            <p>Ar geiriau cyntaf ac y lefarodd efe oedd y rhain dan gan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>vingt et deux deniers,</hi> hynny ydyw <hi>dwy geiniog ar hugain,</hi> ſef, <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>òn fechan ar feſſur pump, ac a ddyfcir i adar a chwiban<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> iw ganu.</hi>
+            </p>
+            <p>A chwedyn fo llefarodd ac a ail-adroddodd yn fynych y gair hwn, <hi>Gwenidog, Gwenidog;</hi> Ac oblegit fod y llais hwnnw yn dra ofnadwy i ni ar y cyntaf, mi ymmatteli<g ref="char:EOLhyphen"/>ais yn hîr cyn yr attebais iddo ddim ond hyn yn unig; <hi>Dôs oddi wrtbifi Satan, yr Arglwydd a'th gcryddo di.</hi>
+               <pb n="21" facs="tcp:174192:11"/>
+Eithr fel yr ydoeed efe eilchwaith yn ailadrodd yn fynych iawn y gair hwnnw, <hi>Gwenidog,</hi> gan dybied (mae 'n dy<g ref="char:EOLhyphen"/>bygol) trwy hynny i'm blino i yn ddirfawr, fe 'm cy<g ref="char:EOLhyphen"/>ffrowyd i ddywedyd wrtho fel hyn; <hi>ie yn wir, Gweni<g ref="char:EOLhyphen"/>dog ydwyfi, Gwaſanaethwr ir Duw byw, o flaen mawrhydi pa un yr wyt ti 'n Crynu.</hi> Yntef a attebodd, <hi>nid wyfi'n dy<g ref="char:EOLhyphen"/>wedyd amgen;</hi> ond ebe finne, <hi>nid rhaid i mi wrth dy deſti<g ref="char:EOLhyphen"/>olaeth di.</hi> Etto fo barháodd i ddywedyd yr un peth, fel pe mynaſſe weithio ynom ni dyb da am dano ef.</p>
+            <p>Yna fe fynne ymrithio i rith <hi>Angel goleuni,</hi> gan ddy<g ref="char:EOLhyphen"/>wedyd o hono ei hun â lleferydd uchel, <hi>Weddi 'r Ar<g ref="char:EOLhyphen"/>glwydd, y Gredo, y boreuol a'r prydnhawnol weddiau, a'r dêc Gorchymyn.</hi> Gwir yw, fo 'i cwttoge nhwy bob am<g ref="char:EOLhyphen"/>ſer, ac a adawe ryw ranne o honynt heb eu hadrodd. Fe ganodd hefyd â llais uchel ran o'r pedwar-ugeinfed <hi>Pſalm</hi> ac un.</p>
+            <p>Yna fe adroddodd lawer o bethe, y rhai y allent fod yn wir; megis rhyw fatterion neilltuol, perthnaſſol i'm tylwyth i; ac ym myſc pethau eraill, wenwyno fy nhad i; gan enwi y gwr a'i gwenwynodd ef, a phaham, gan hyſpyſſu 'r lle, a math y gwenwyn.</p>
+            <p>Fe ddywedodd iddo ddyfod y noſon honno o <hi>Bais de Vaux,</hi> a thramwy o hono trwy Bentref <hi>Alamogne,</hi> yr hon ſydd yn <hi>Bailioge de Goz,</hi> wrth ddrws ty fy mrawd hvnaf; lle y gwelſai fo ef gyda Mr. <hi>Du Pan</hi> Gwenidog <hi>Thoiry;</hi> a'u bod nhwy ar fyned i ſwpper ynghyd yn nhy fy mrawd; a'u bod nhwy 'n gymmydogion ac yn gyfei<g ref="char:EOLhyphen"/>llion anwyl; a darfod iddo gyfarch gwell iddynt, a go<g ref="char:EOLhyphen"/>fyn, a oedd ganddynt ddim i orchymyn iddo fe i ddywedyd wrthifi, oblegit ei fod e'n myned i <hi>Faſcon;</hi> a darfodd iddynt hwy ymddwyn eu hunain yn fwyn iawn tuag atto ef, a deiſyf arno gofio eu cariad hwy artafi, ie a gwahodd o honynt hwy fo i yfed gydag hwynt. Ty<g ref="char:EOLhyphen"/>di 'r Fall ebe finne wrth yr yſpryd drwg, pe gwyba<g ref="char:EOLhyphen"/>ſſent hwy pwy 'n oeddyt ti, ni byſſent hwy mor fwyn wrthyti.</p>
+            <p>
+               <pb n="22" facs="tcp:174192:12"/>Yr oedd peth gwi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ionedd yn y ſtori hon; canys fe ddywe dodd Mr. <hi>Du Pan</hi> a llawer eraill wrthifi ar ól hynny, eu bod nhwy 'n cofio 'n dda iawn, ddarfod i iyw un ar yr amſer hwnnw, or cyfryw agwedd, yr hwn oedd yn marchogaeth ar geffyl main iawn, ac yn goſtwng ei ben i lawr, ſiarad â nhwy; a bod y cyfryw ymddiddani<g ref="char:EOLhyphen"/>on rhyngddynt.</p>
+            <p>Mynegodd y cythrel i ni ſtori hefyd, y nghylch brawd arall i mi, yr hwn oedd yn trigo yn nyffryn llynn <hi>de Joux,</hi> yng wlâd <hi>Foux,</hi> gan ddywedyd, i'm Mrawd, ar ryw ddiwrnod, pan y daeth rhai o'n c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raint agos i ymweled ag ef, eu perſwadio hwynt, er mwyn eu gwneuthnr hwy 'n llaw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, i fyned ar y llynn heb un bâd, ar goed gwedi eu rhwymo ynghyd, y rhai oeddynt yn gorwedd ar wyneb y dwr; ac a nhwythau ym<g ref="char:EOLhyphen"/>mhell ar y llynn, ddarfod i wynt tymmheſtlog gyfodi, yr hwn a'u gyrrodd hwynt yn eu hôl ir lann ar frys; yn agos ir hon y dadymchwelwyd yr holl goed hvnny, a braidd na foddodd yr holl bobl, a chyfaddefodd y cythrel, mai efe a gyfodaſſe y ſtorom honno. 'Roedd y ſtori hon yn ddigon gwir; ac fe alle hynny hefyd fod yn wir, mai-efe y gyfododd y gwynt hwnnw, megis y darllenwn ni yn llyfr <hi>Job,</hi> i Satan gyfodi gwynt mawr, yr hwn y wnaeth ir ty ſyrth<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ar blant y gwr ſanctaidd hwnnw.</p>
+            <p>Noſwaith arall, a'r cythrel yn llefaru wrth <hi>Claude Re<g ref="char:EOLhyphen"/>pay,</hi> cannwr lliain, un o'r rhai y arfere ddyfod attafi gw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>di nôs; efe a ofynnodd iddo; onid côf gantho, ar y cyfiyw ddiwrnod, ar ôl iddo oſod mewn trefn rhai drylli<g ref="char:EOLhyphen"/>an o liain a chengle o edef, gael o hono y cwbl, ym mhen gronyn ar ôl hynny, wedi eu ſymmyd allan o'u lle, ac yn an-nhrefnus. Ac yna fo ddywedodd, mai ei waith ef ydoedd hynny.</p>
+            <p>Gofyn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odd i <hi>Philbert Guilermin</hi> cannwr arall, yr hwn hefyd oêdd yn y cwmpeini; onid côf gantho, ar ryw ddiwrnod, pan yr oedd e'n plygu i droi rhai drylliau o liain a chengle o edef, y rhai y danwyd ar y gwellt
+<pb n="23" facs="tcp:174192:12"/>
+glâs, ddarfod i ryw beth ei dynnu ef, o'r tu cefn iddo, wrth gwrre ei ſhercyn, a pheri iddo ym-chwelyd yn ei ôl ddau neu dri cham; ac onid côf gantho, ar y prydn<g ref="char:EOLhyphen"/>hawn-gwaith neſſaf, ac yntef yn gorwedd yn y can<g ref="char:EOLhyphen"/>dy, i ryw beth daflu ei hatt ef yn ei wyneb, yr hon a grogaſſe efe ar hoel wrth yſtlys ei wely, a pheri o hyn<g ref="char:EOLhyphen"/>ny iddo d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>effroi o'i gwſc gyda dychryn mawr. <hi>Fy ngw<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th i oedd hynny ebr diawl.</hi> Fe gyfaddefodd <hi>Repay a Gu<g ref="char:EOLhyphen"/>ilermin,</hi> ddigwyddo o'r pethau hyn iddynt, ond nas gwyddent hwy pwy 'n oedd a llaw ynddynt hyd yn awr.</p>
+            <p>Daeth o <hi>Lyons</hi> farſiandwr o <hi>Lovan,</hi> ac a lettuodd yn <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hy ei frawd <hi>Philbert Guilermin,</hi> ac yr oedd yn ei fryd ef, i ymweled â mi y nos gyntaf, ond ni adawe ei frawd iddo ddyfo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Ni ffaelodd ar y cythrel fynegi i ni hynny, gan ddywedyd, nis gwn i mor achos paham na ddaeth Mr. <hi>Philbert</hi> i wiliad ymma neithiwr. Yr oedd chwant mawr ar ei frawd ef i ymwelyd â ni, ond fe gynghorodd <hi>Phil<g ref="char:EOLhyphen"/>bert</hi> ef ir gwrthwyneb, oblegit nas mynnei idd ei frawd glywed, pa fath ſtwr yr ydym ni'yn ei gadw yn y ty hwn.</p>
+            <p>Soniodd hefyd ynghylch cynnen ddiweddar y fuaſai rhwng <hi>James Berard,</hi> cwtler o <hi>Faſcon;</hi> ac un <hi>Samuel Du Mont,</hi> a darfod ir <hi>Berard</hi> hwnnw gael ei guro gan <hi>Du Mont</hi> yn y fath fôdd, ac y bu e agos a marw: a gwir <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edd y peth: ond efe a fynegodd lawer o bethe neilleuol, anghy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nabyddus o'r blaen, ac y ddigwyddaſant yn y gyn<g ref="char:EOLhyphen"/>nen ho<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o. Mynego<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d i ni, fel y clwyfwyd un <hi>Ffrancis Chickard</hi> yn ei goes yn ffair ddiweddar Saint <hi>Laurence</hi> (ar yr hon y mae dinaſyd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion <hi>Maſcon</hi> yn myned allan yn eu ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe, dan eu hamryw faneri,) ac ar ôl hynny dorri ei go<g ref="char:EOLhyphen"/>es ef ymaith, am iddi bydru. Ac fo enwodd y gwr a'i ſaethodd ef, ac a ddywedodd mai o falis, i ymddial ar <hi>Chickard</hi> y gwaethpwyd hynny iddo, yr hyn a alle fod yn ddigon gwir.</p>
+            <p>Fe adroddodd ſtori rodedig yrghylch <hi>Philbert Maſ<g ref="char:EOLhyphen"/>ſon</hi> a'i wraig <hi>Guili<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ma Blane,</hi> a elwit yn gyffredinol
+<pb n="24" facs="tcp:174192:13"/>
+               <hi>la Challonoiſe,</hi> rhai ac y drigaſent gynt yn ein ty ni; ddar<g ref="char:EOLhyphen"/>fod ir wraig, ar ryw ddiwrnod, a nhwythau wedi cw<g ref="char:EOLhyphen"/>ympo allan a'u gilydd, gymmeryd achlyſſur i ymddial ar ei gwr, pan yr ydoedd efe ar fedr myned i lawr iw ſhop; gan ei wthio ef o'r tu cefn iddo â'r fath nerth, hyd oni ſyrthiodd efe i wared tros y ſteire yn farw ſyth: ac yna hi aeth yn ebrwydd i lawr dros bâr o ſteire eraill, i alw 'r prentiſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id a'r gweithwyr o'r ſhop i ddwad i yfed diod; fel pan y caent hwy eu meiſtr wrth droed y ſtei<g ref="char:EOLhyphen"/>re yn farw, y bydde iddynt dybied, farw o hono o ryw glefyd diſymmwyth. A chredu a wnaeth llawer, mai gwir oedd y dirgelwch hyn y ddatcuddiodd y Cy<g ref="char:EOLhyphen"/>threl.</p>
+            <p>Ar noſwaith arall, pan yr oedd y Cythrel yn llefaru wrth un o'n cwmpeini, efe a fynegodd iddo y fath be<g ref="char:EOLhyphen"/>the neilltuol a dirgel, y rhai medde 'r gwr nas adrodd<g ref="char:EOLhyphen"/>odd efe wrth un dyn erioed, ac y mynnei fo gredu, fod y <hi>Diawl</hi> yn gwybod meddyliau ei galon ef, nes i mi i berſwadio ef ir gwrthwyneb.</p>
+            <p>Yna efe ddechreuodd watwor Duw a phob crefydd, ac wrth adrodd gogoniant ir Tàd, fo adawodd y geiriau, <hi>ac ir Mâb,</hi> heb en hadrodd; ac wrth enwi 'r <hi>trydydd Perſon o'r Drindod,</hi> yr oedd ei eiriau ef o ddau ddeall, yn frwnt, yn echrydus, ac yn ffiaidd. A chwedi 'm cyffroi ar hyn i ddigofaint cyfiawn, mi a ddywedais wrtho: <hi>Tydi Yſpryd drwg ac atgas a</hi> ddylaſit ddywedyd yn hytrach, <hi>Gogoniant a fo ir Tâd, Creawdwr Nêf a dai<g ref="char:EOLhyphen"/>ar, ac iw Fâ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ef Jeſu Griſt, yr hwn a ddeſtrywiodd wei<g ref="char:EOLhyphen"/>thredoedd y Diafol.</hi>
+            </p>
+            <p>Yna efe a ddeiſyfodd arnom ni yn daer iawn, i ddan<g ref="char:EOLhyphen"/>fon am Mr. <hi>Du Chaſſin,</hi> yr hwn oedd bapiſt, a Pherſon plwyf <hi>Saint Stephan,</hi> wrth yr hwn (meddai fe) y cyffe<g ref="char:EOLhyphen"/>ſſai fo ei bechodau;, ac fe fynne iddo ddwyn dwr bendi<g ref="char:EOLhyphen"/>ged gydag ef yn ddiffael, canys dyna 'r peth (ebe fo) a'm gyrrei i ymmaith yn ebrwydd.</p>
+            <p>Roedd genym ni Gi yn y ty, yr hwn oedd arferol o
+<pb n="25" facs="tcp:174192:13"/>
+fod yn wiliadwrus iawn, ac a gyfarthe ar y trwſt lleiaf; ac yr oeddem ni'n rhyfeddu, nas cyfarthodd efe un am<g ref="char:EOLhyphen"/>ſer, ar ddywediad uchel a ſcrêch erchyll y Cythrael: ac ebr Diafol o hono'i hun, heb neb yn gofyn iddo; <hi>'rych chi 'n rhyfeddu am nad yw 'r ci yn cyfarth, ond y rheſ<g ref="char:EOLhyphen"/>wm o hynny ydyw hyn, am i mi wneut hur arwydd y grôg ar ei ben ef.</hi>
+            </p>
+            <p>Yna gan fod yn llawen, fe ddechreuodd watwor a gwawdio; ac ym myſc pethau eraill fe ddywedodd, ei fod e'n un o'r rhai a ddringhaſant furiau <hi>Geneva, (uno ddinaſoedd y proteſtantiaid)</hi> a phan dorrodd yr yſgol, fo ddywedodd iddo ſyrthio oddiwrth y wal i ffôs clawdd, a braidd nas bwyttawyd ef yno gan y llyffaint; ac yna fe wnaeth lais yn gwbl gyffelyb iw llais hwynt. Dywe<g ref="char:EOLhyphen"/>dodd he fyd am <hi>Jeſuit</hi> (un o offeiriaid y papiſtiaid) a elw<g ref="char:EOLhyphen"/>yd y Tâd <hi>Alexander,</hi> ei fod e'n ſefyll y pryd hynny wrth droed yr yſgol, i annog y <hi>Safoyards</hi> i ddringad yn hyderus, gan eu ſiccrhau hwynt, yr ennillent y <hi>Ddinas,</hi> ac y caent hwy <hi>Baradwys</hi> yn lle gwobr. A phan ar<g ref="char:EOLhyphen"/>weinwyd y tri ar ddeg hynny, y rhai a ddringhaſant i fy<g ref="char:EOLhyphen"/>nu, ac a ddalwyd, ir crogpren iw crogi, fo ddywedodd, fod gwragedd y Dref yn dywedyd wrth y Dihenydd<g ref="char:EOLhyphen"/>wr neu'r Hangman, <hi>ymwrola Tabaſan, Di gei arian i gwmpnio.</hi>
+            </p>
+            <p>Mynegodd hefyd, fod <hi>Pays de Vaux</hi> yn wlâd, lle 'roe<g ref="char:EOLhyphen"/>ddyt yn gwneuthur golwython têg o'r ſwyn wragedd, ac ar hynny fo chwarddodd yn uchel iawn, Tra hôff o<g ref="char:EOLhyphen"/>edd gantho gytcam â morwyn y ty, gan ei galw hi <hi>Breſſande</hi> (hynny yw gwraig o wlad <hi>Breſſia</hi>) ac fo lefarei â'r un-rhyw lais a hithe. Un noſweith, a hi yn myned i fynu ir llofft i geiſio glô, fe ddywedodd wrthi, <hi>'rwye ti 'n eon (neu 'n hyf) iawn, i drammwy cyn agoſed attafi;</hi> a chan wneuthur ſwn, fel pettaiſe 'n curo ei dwylo ynghyd, fo ddywedodd wrthi, <hi>mi'th ddodaf di yn fy Sâch.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tyb ni hefyd, hoff iawn oedd gantho ymddigrifo ag
+<pb n="26" facs="tcp:174192:14"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>Michael Repay,</hi> yr hwn a ddewe attom yn gyffredinol bôb nôs gyda 'i Dâd, gan ei alw ef yn fynych, <hi>Mihel, Mihel.</hi> Dywedodd unwaith wrtho, y dygei fo ef i ry<g ref="char:EOLhyphen"/>fela gyda 'r <hi>Marqueſs</hi> o <hi>Saint Martius,</hi> yr hwn oedd yn codi byddin o wyr meirch ym <hi>Mreſſia,</hi> i fyned i <hi>Savoy.</hi> Ond <hi>Michael Repay,</hi> dan wenu a'i hattebodd e'n 'llyn, <hi>a'i gyda 'r fath un digalon a thydi yr awn i ryfela,</hi> gan dy fod yn cyfaddef, ei ti redeg ymaith oddiwrth ddrin<g ref="char:EOLhyphen"/>gad murie <hi>Geneva?</hi> ir hyn yr attebodd y Cythrel; <hi>a wyt ti 'n tybied yr awn i gael fy nghrogi gyda 'm cyfeillion? nid oeddwn i mor ynfyd a hynny.</hi> A chan barhau i gellwair â <hi>Michael Repay,</hi> fo'i coſtaodd ef, iddo ddywedyd y Sûl o'r blaen, wrth fyned ir Eglwys gydag un <hi>Noel Mon<g ref="char:EOLhyphen"/>ginot,</hi> i bentref <hi>
+                  <g ref="char:V">Ʋ</g>rigny,</hi> mai'r ffordd i ddala 'r diawl ydoedd tannu rhwyd iddo: ac yna ebe fo, <hi>a dannu di dy rwyd i'm dala i?</hi> A'r pryd hynny efe lefarodd â lleferydd yn gwbl te<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g i leferydd mam <hi>Michael Repay,</hi> hyd oni ddywedodd efe dan chwerthin wrth ei Dâd, <hi>yn wir fy Nhâd, y ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fo 'n llefaru yn gymmwys fel fy mam.</hi>
+            </p>
+            <p>Ar amſer arall, efe a ddywedodd wrthym ni â llais egwan cwynfannus, fod yn ei fryd ef i wneuthur ei 'wyllys, o herwydd fod yn rhaid iddo fyned yn fuan i <hi>Chamberey,</hi> lle 'roedd gantho fatter yn barod iw oſod i dreial mewn cyfraith, a'i fod e'n ofni y bydde fo marw ar y ffordd; ac am hynny fo barodd ir forwyn alw ar ſcrifennydd i ddyfod atto, gan enwi Mr. <hi>Tor<g ref="char:EOLhyphen"/>nus,</hi> Tâd ir <hi>Tornus</hi> hwnnw, am yr hwn y crybwylla<g ref="char:EOLhyphen"/>ſom o'r blaen. Fe adroddodd lawer o bethe neilltuol ynghylch ei deulu ef; am ba rai, ac hefyd am yr holl bethe y wnaeth y Cythrel yn ei wydd ef, fe adawodd y <hi>Tornus</hi> hwnnw, ſcrifennydd ir Brenin fel ei <hi>Dâd,</hi> dra<g ref="char:EOLhyphen"/>ethawd mewn ſcrifen dan ei law ei hun, yr hyn ſydd gennif yn fy nghadwraeth i wirio 'r cwbl a adroddir yma. Ac er mwyn cael y cyfryw deſtiolaeth gymmeradwy y
+<pb n="27" facs="tcp:174192:14"/>
+deiſyfais i arno, i ddyfod i'm ty, pan y daeth y blinder hwn arnafi.</p>
+            <p>Yn y ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rifen honno y cofir yr amryw roddion, y fy<g ref="char:EOLhyphen"/>negodd y Diawl a adawe fo, ſef, i un cymmaint a hyn, i arall cymmaint á hynny. Eithr un o honynt, ir hwn y dywedodd y Cythrel y rhoddei fo bum cant o bynne, a'i hattebod ef nas mynne fo moi arian ef, ac a erfyni<g ref="char:EOLhyphen"/>odd ar iddynt fôd gydag ef i ddeſtryw. Fe enwodd wr arall i fod yn etifedd iddo, yr hwn a'i hattebodd ef, y cymmerei fo 'r etifeddiaeth. Mi'th ryddhaf di oddi<g ref="char:EOLhyphen"/>wrthi (<hi>ebr Cythrel</hi>) am chwe cheiniog a thammeid o Fara.</p>
+            <p>Gronyn ar ól hynny, cymmerodd arro, mai nid efe oedd yr yſpryd y lefaraſe o'r blaen, ond mai gwâs i hwnnw ydoedd efe; a dyfod o hono oddiwrth waitio ar ei feiſtr, yr hwn a archodd iddo gadw ei lê ef yn ei abſen, tra 'r ydoedd ar ei daith i <hi>Chambe<g ref="char:EOLhyphen"/>rey.</hi> A phan y ceryddais i ef â'r fath eirie ac a oſododd Duw yn fy ngenau, fo 'm hattebodd i a rhîth o ara<g ref="char:EOLhyphen"/>fwch a pharch mawr, gan ddywedyd, <hi>Ardolwyn Syr pardynwch fi, 'rychi 'n camſynnied am danafi; 'rychi 'n fy nghymmeryd i yn lle un arall: Ni bum i yn y ty yma crioed o'r blaen; Ardolwyn ſyr beth yw'ch henw chwi?</hi> fel yr oedd e'n llefaru fel hyn, <hi>Simeon Meiſſioner,</hi> un ac oedd yn arfer cyrchu 'n fynych i'm ty ar yr achos hyn, a ruthrodd yn ddiſymmwth ir fann, o'r hwn y deue 'r llais i'n tyb ni: a chwedi chwilio 'r lle eilch<g ref="char:EOLhyphen"/>waith ac eilchwaith, fel y gwnaeth eraill o'i flaen ef; ac er nas cawſant hwy ddim yno, etto efe ddychwe<g ref="char:EOLhyphen"/>lodd ir fann lle 'roeddem ni oll, gan ddwyn gydag ef, o'r man lle 'r oedd ſwn y llais, amryw bethe, ac ym myſc y rheini pottel fechan. Ac ar hyn fe chwar<g ref="char:EOLhyphen"/>ddodd y cythrel ac a ddywedodd wrtho. <hi>Mi glywais ys dyddie mai ffôl oeddyt ti, ac yn awr mi a welaf mai felly 'rwyt ti mewn gwirionedd, pan y eredit fy môd i yn y
+<pb n="28" facs="tcp:174192:15"/>
+bottel yna: mi fyſſwn fy hunan yn ffôl i fyned i mewn iddi; canys felly y gallaſſe un fy nala i, trwy ſtoppo 'r bottel â'i fys.</hi>
+            </p>
+            <p>Ar noſwaith, pan yr oedd <hi>Abraham Lulier</hi> (gof aur) yn dyfod tua 'm ty, lle ni ffaelei a bôd yn gyffredinol; ebr cythrel y pryd hynny, <hi>ewch, agorwch y drws i Lulier, yr hwi ſy'n dyfod;</hi> ac erbyn hynny yr oedd <hi>Lulier</hi> yn cu<g ref="char:EOLhyphen"/>ro wrth y drws. Cyn gynted ac a daeth efe i mewn, fe ddywedodd y cythrel wrtho; ei fod e'n ewyllyſſio dy<g ref="char:EOLhyphen"/>ſcu crefft <hi>eurof</hi> gantho; ac y rhoddei fo ddeg coron a deugain, er mwyn cael bod yn <hi>Brentis iddo.</hi> A chan ddywedyd yn dêg wrtho, <hi>Rwi</hi> (ebr cythrel) <hi>yn dy ga<g ref="char:EOLhyphen"/>ru di 'n fawr, rwyt ti'n oneſtach gwr nâ'r cyfryw un,</hi> (gan enwi eurof arall o <hi>Geneva</hi>) <hi>yr hwn a dwyllodd y cyfryw Arglwyddes o Faſcon, yr hon a aeth i ymweled â rhai o'i cheraint yn Geneva, wrth werthu iddi rai modrwye, meini gwerthfawr, a phlâts.</hi> A phan y dywedodd <hi>Lulier</hi> wrtho; <hi>nid rhaid i mi wrth dy gariad di, 'rwi 'n foddlon a chari<g ref="char:EOLhyphen"/>ad fy Nuw, ac nis cymmerafi y fath Brentis a thydi;</hi> fe at<g ref="char:EOLhyphen"/>tebodd y cythrel, <hi>gan na ddyſci di i mi gelfyddyd y gôf aur, dyſced Mr.</hi> Philbert <hi>fi i fod yn Gannwr lliain.</hi>
+            </p>
+            <p>Yna gan gymmeryd arno eilchwaith agwedd gwâs, efe achwynodd ei fod e'n dlawd, a bod ei ddillad yn wa<g ref="char:EOLhyphen"/>el, a'i fod e'n ſythu gan anwyd, ac nad oedd ei gyflog ond tair punt yn y flwyddyn: ac os mynnem ni iddo ym<g ref="char:EOLhyphen"/>adel â ni 'n ebrwydd, fo ddywedodd y dylem ni roi rhyw beth iddo, ac y boddlonei hynny fo. Minne a'i hatte<g ref="char:EOLhyphen"/>bais ef, ei fod e'n curo wrth y cam ddrws, ac na rown iddo gymmeint ac a bariwn oddiwrth fy ngwinedd. Ebe yntef, <hi>nid oes gennych chi wrth hynny ond ychydig iawn o gariad.</hi>
+            </p>
+            <p>Fe haerodd arnom ni drachefn yn daer iawn, mai nid efe oedd yr hwn y fuaſſe yn y ty o'r dechreuad, ond ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ei wâs ef ydoedd efe; ie mai nid efe oedd yr hwn y fuaſſe yn y ty y nos o'r blaen; a bod y pryd hynny un o'<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gydweiſion ef yn diſgwyl; a'i bod hwy ill dau yn edrych
+<pb n="29" facs="tcp:174192:15"/>
+am ddychweliad eu meiſtr o'i ſhiwrne i <hi>Chambery,</hi> o ba le y dychwelei fo ar fyrrder.</p>
+            <p>Ac er nas gwn i pu'n a'i 'r Pen-cythrel ei hunan, neu ynte un neu ychwaneg o'i weiſion ef, oedd yn llefaru wrthym y pryd hynny; etto myfi a glywais oddiwrth dyſtion credadwy, fod ar yr un amſer <hi>Yſp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yd</hi> yn nhy Mr. <hi>Favre,</hi> y Barnwr pennaf o <hi>Chamberey,</hi> (yr hwn am ei wybodaeth yn y gyfraith, oedd wr enwog yn ei oes) a darfed ir yſpryd hwnnw lefaru wrtho, a dywedyd ym myſc pethau eraill, ei ddyfod ef o <hi>Faſ<g ref="char:EOLhyphen"/>con,</hi> a thrammwy o hono trwy <hi>Breſſe,</hi> ac iddo weled y cyfryw a'r cyfryw geraint o'i eiddo ef.</p>
+            <p>I ddychwelyd at yr hyn oedd yn ein ty ni ar yr am<g ref="char:EOLhyphen"/>ſer hynny, fe archod<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yr yſpryd â llais uchel, i ni wneuthur paratóad mawr o ymborth, megis <hi>Twrc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, Pe<g ref="char:EOLhyphen"/>triſſtaid,</hi> yſcyfarnogod, a'r cyffelyb, erbyn dyfodiad ei feiſtr. Yna fe ganodd fagad o ganiade halogedig a maſ<g ref="char:EOLhyphen"/>weddol, ac ym myſc eraill yr hon a elwir <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efilou.</hi> Lle<g ref="char:EOLhyphen"/>farodd hefyd megis ac y gwna Jnglers neu Hudolwyr, ac yn enwedig fel Helwyr, ga<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> weiddi 'n grôch, <hi>ho levrier, ho levrier,</hi> fel y gweidd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 'r Helwyr (yn ffraingc) wrth gyfodi yſcyfarnog.</p>
+            <p>Goſododd arnom ni â phrofedigae<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h i drachwantu go<g ref="char:EOLhyphen"/>lud, (un o gyffredi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l demp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſiynau <hi>Satan,</hi> ac am hynny y gelw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ei Mammon) gan ymhonni 'n fynych, fod chwe mîl o goronau yn guddiedig yn y ty, ac or bydde i neb o honom <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ei g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nlyn ef, y dangoſſei fo ble 'roedd yr arian wedi guddio. Eithr mi allaf ddywedyd â chydwybod dda, yng wydd Duw a'i Angelion ſanct<g ref="char:EOLhyphen"/>aidd, nas chwiliais i fy hunan, ac nas perais i, ac nas goeddefais i <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eb arall i ymofyn am dany<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, ac nas ew<g ref="char:EOLhyphen"/>yllyffiais ar un amſer i mwynháu hwynt.</p>
+            <p>Mynnei hefyd ein profi ni à manylrwydd (<hi>curioſity</hi>) gan d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ywedyd, os mynnem ni ei weled ef mewn rhi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, gwr, gwraig, llew, arth, eî, câth, neu'r cyffelyb, y gwnei fo hynny o ddifyrrwch inni. Eithr ni a ffieiddi<g ref="char:EOLhyphen"/>aſom
+<pb n="30" facs="tcp:174192:16"/>
+yn ddirfawr ac a wrthodaſom wrando arno yn y matter hwnnw, gan ddywedyd, ein bôd ni cyn belled oddiwrth ddymuno cael ei weled ef mewn un rhyw rith, a bôd o honom ni'n mawr hiraethu, os byddei gydag ewyllys Duw, na chlywem ni ei leferydd ef byth mwyach; a'n bôd ni'n gobeithio y gwaredei Duw ni ar fyrrder oddiwrth ei holl brofedigaethau ef.</p>
+            <p>Ar y diwedd fe ddechreuodd fod yn ddîg iawn, yn gyntaf wrthifi, am i mi ddywedyd wrtho, <hi>Dôs ti fellti<g ref="char:EOLhyphen"/>gedig ir tân tragwyddol, a baratowyd ir Diawl a'i Ange<g ref="char:EOLhyphen"/>lion.</hi> Ac ar hyn ebe yntef, <hi>Ti ddywedi gelwydd: nid wyfi 'n felltigedig; 'rwi etto 'n gobeithio cael iechydwriaeth trwy farwolaeth a dioddefaint Jeſu Griſt.</hi> Hyn y ddywe<g ref="char:EOLhyphen"/>dodd efe yſgatfydd, i beri i ni gredu, mai enaid gw<g ref="char:EOLhyphen"/>raig y fu farw ychydig or blaen yn y ty ydoedd efe, merch i wraig y fwriaſwm i allan o'r ty trwy gyfraith; canys yr oedd ſôn, ddarfod iddi 'hi ar ei therfyn we<g ref="char:EOLhyphen"/>ddio ar Dduw, ar allel o honi, ar ôl ei marwolaeth, ddychwelyd ir ty i'n blino ni.</p>
+            <p>Dywedodd wrthifi mewn digofaint mawr, y gwnai <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hyn a'r llall imi; ac ym myſc pethau eraill, fo ddy<g ref="char:EOLhyphen"/>wedodd wrthyf, y dewe fo, pan y byddwn i yn y gwe<g ref="char:EOLhyphen"/>ly, i dynnu 'r blancedi oddi arnaf, ac i'm llyſgo i wrth fy nhraed allan o'r gwely. Minne a'i hattebais ef, fel yr attebodd y Prophwyd <hi>Dafydd</hi> iw elynion, <hi>Mi or<g ref="char:EOLhyphen"/>weddaf ac a h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>naf, canys yr Arglwydd a wna i mi drigo mewn diogelwch.</hi> Dywedais wrtho fe hefyd y peth y ddywedodd <hi>Criſt</hi> wrth <hi>Pilat, nid oes genniti ddim aw<g ref="char:EOLhyphen"/>durdod arnafi, ond yr hyn a roddwyd i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ti oddi ucho<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> Ac yna fo'm hattebodd i, gan ail-adrodd y geirie hyn ddwy waith tair, <hi>mae hynny 'n dda iti, mae hynny 'n dda i it.</hi>
+            </p>
+            <p>Digiodd hefyd yn ddirfawr wrth un o'r cwmpeini, yr hwn a'i galwaſe fo y <hi>Bwch Drewllyd,</hi> a rhoddodd iddo la<g ref="char:EOLhyphen"/>wer o ddrwg eirie, megis y rhain, <hi>Ti fynnit ymddangos fel gur da, ond nid wyt ti ond rhagrithiwr: rwyt ti'n my<g ref="char:EOLhyphen"/>ned yn fynych i Bont-deville, mewn lliw i wrando pregethe: eithr wrth fyned rwyti 'n dwyn gyda thi dy flwch ſydd a'th fi<g ref="char:EOLhyphen"/>le
+<pb n="31" facs="tcp:174192:16"/>
+a'th fande yntho, er mwyn gofyn dy ddyledion a llôg dy arian Ymaith â thi, ni wneit ti ddim cydwybod o grogi dyn am bunt fel y gwna Mr</hi> Denis; a Hangman <hi>Maſcon</hi> oedd y <hi>Denis</hi> hwnnw. Ac yna gan wneuthur ſwm, mal pettaiſe 'n cu<g ref="char:EOLhyphen"/>ro ei ddwylo ynghyd, fe ddywedodd eilchwaith wrth yr un gwr; <hi>'rwyt ti 'n cymmeryd arnati yma, fel pettai ti'n wr glew, wedi dwyn yn awr dy gleddyf gyda thi: eithr or byddi di mor galonnog, a dwad hyd yma heb oleu, fe geit gweled pu'n o honom ni 'n dau ſydd wrola.</hi>
+            </p>
+            <p>Gwedi dywedyd yr holl bethe hyn am yr amſer cynt a phreſennol, fe fynne fynegi peth hefyd am yr amſer i ddyfod. A chan grybwyll am y Proteſtantiaid yn nheyr<g ref="char:EOLhyphen"/>nas <hi>ffraingc,</hi> fe waeddodd un-waith, <hi>O'r Hugonots truain, chwi a ddioddefwch lawer o fewn ychydig o flynyddoedd! o pa fath darwg y fwriedir yn eich herbyn chwi! gydag ychwa<g ref="char:EOLhyphen"/>neg o eiriau ir un pwrpas.</hi>
+            </p>
+            <p>Dywedodd ddwy waith neu dair am fy ngwraig, yr hon o<g ref="char:EOLhyphen"/>edd yn feichiog, ac yn agos iw thymp, y bydde iddi ferch. Mi ofnais o herwydd y cyflwr yr oedd hi yntho, y cei hi ryw ni<g ref="char:EOLhyphen"/>wed wrth eſcori, trwy ddychryndod oddiwrth ein lletteywr uffernol; ac am hynny mi attolygais arni i adel y ty, ac i fy<g ref="char:EOLhyphen"/>ned at ei mam-gû, yr Arglwyddes <hi>Philiberta de la Mouſiere,</hi> gy<g ref="char:EOLhyphen"/>da'r hon y meithrinwyd hi er yn blentyn, ac felly i orwedd i mewn yn ei thi hi. Eithr hi a eſcuſododd ei hunan oddiwrth hynny yn wrol iawn, gan ddywedyd, y bydde ei mynediad hi ymaith yn anhyder ar allu a thrugaredd Duw: a chan ryngu bôdd i Dduw, i ymweled â ni, felly y gallei fo'n gorddiwes ni yn yr un môdd mewn ty arall; <hi>ac nas dylem ni gilio ymaith, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mynnwn ni wrthwynebu 'r Diawl.</hi> Ac yn wir 'rwi 'n cyfa<g ref="char:EOLhyphen"/>ddef, farnu o honi 'n union yn hyn ny o beth; canys fe'n cyn<g ref="char:EOLhyphen"/>ghorir ni'n fynych yn y ſcrythur, i wrthwynebu, ac i ymladd, ac i ymdrechu â'r Cythrael, ond nid byth i ffoi oi flaen ef; ca<g ref="char:EOLhyphen"/>nys hynny fyddei rhoddi 'r oruchafiaeth iddo: oblegit tebyg ydyw fo ir <hi>Blaidd,</hi> ac ir <hi>Crocodil,</hi> y rhai y giliant ymaith os ſefwch chwi 'n galonnog yn eu herbyn; eithr os ofnwch hwynt, a throi oddiwrthynt, hwy a redant ar eich hôl chwi.</p>
+            <p>Ar ryw noſwaith fe ddywedodd y Diawl yng wydd pawb, y byddwn i marw 'n ddilys cyn pen tair blynedd, gan dy bied
+<pb n="32" facs="tcp:174192:17"/>
+trwy hynny i'm poeni i â meddylie gwaſtadol am farwo<g ref="char:EOLhyphen"/>laeth, ac felly peri i mi ſyrthio (pe gallaſal) i ryw drwmder calon, ac felly i glefyd, er mwyn gwirio ei eiriau ef. Eithr mi a'i hattebais ef yng eirie St. <hi>Paul, Act.</hi> 20. <hi>Nid wyf yn gwneu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hur cyfrif o ddim, ac nid gwerthfawr gennif fy einio<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s fy hun, os gallaf orphen fy ngyr<g ref="char:EOLhyphen"/>fa trwy lawenydd, ar weinidogaeth a dderbynniais gan yr Ar<g ref="char:EOLhyphen"/>glwydd Ieſu, i dyſtiolaethu Efengyl grâs Duw.</hi>
+            </p>
+            <p>Gwedi arfer yr holl ddichellion hyn yn ein herbyn, fe orfu ar y cythrel gyfaddef, nas gallei fo mo'n gorchfygu ni, oblegit ein bod ni 'n galw 'n rhy fynych ar enw Duw. Ac i ddangos grym ein gweddiau, y mae hyn yn wirionedd iw ddal ſulw arno, yr ymattalie 'r Diawl oddiwrth lefaru, bob amſer ac y gwelei fo ni yn dechreu pen-linio i fyned i weddio; ac yn dra mynych fo ddywedodd wrthym ni y geirie hyn, <hi>Tra fo chi 'n gweddio, myfi âf, ac a rodiaf ar yr heol.</hi> Ac yn ddiau ni gaen ddiſtawrwydd rhyfeddol, tros yr ennyd yr oe<g ref="char:EOLhyphen"/>ddem yn gweddio, p'un bynnag a'i myned allan, a'i a<g ref="char:EOLhyphen"/>ros yn y lle y wnai fo: eithr cyn gynted ac y darfydde 'r weddi, fo ddechreue eilchwaith i'n cymmell a'n han<g ref="char:EOLhyphen"/>nog ni megis o'r blaen, i ſiarad ag ef: Ac fo barhaodd felly i lefaru wrthym ni, ac i'n hannog ninne i lefaru wrtho yntef, hyd y 25 o fîs Tachwedd, pan y llefa<g ref="char:EOLhyphen"/>rodd efe y geirie hyn yn ddiweddaf: <hi>Ha, ha, je ne parleray plus,</hi> hynny yw, <hi>och! och! ni chafi lefaru mwy<g ref="char:EOLhyphen"/>ach.</hi> Ac oddiar y pryd hynny, efe a beidiodd, ac ni lefarodd efe ym-mhellach.</p>
+            <p>Mi allwn chwanegu at hyn lawer o ymadroddion er<g ref="char:EOLhyphen"/>aill, ac y lefarodd y cythrel hwn; ond 'rwi 'n cyfaddef, fy môd i yn ymattal o bwrpas oddiwrth eu traethu hwynt; oblegit eu bod nhwy yn wrthwyneb, naill ai i Grefydd, neu ynte ir Awdurdodau goruchel, neu i enw da rhai gwyr mawrion a Theuluoedd anrhydeddus; neu oblegit eu bôd nhwy 'n fudr ac yn anweddus, me<g ref="char:EOLhyphen"/>gis pethau yn dyfod oddiwrth yſpryd aflan. Y mae cym<g ref="char:EOLhyphen"/>meint
+<pb n="33" facs="tcp:174192:17"/>
+ac y draethaſom yn ddigonol i ddangos, mor ddieithr a rhyfeddol ydoedd ymadroddion y cythrel.</p>
+            <p>Megis yr oedd ei eiriau ef yn ddieithr ac yn rhyfedd<g ref="char:EOLhyphen"/>ol, felly 'roedd ei weithrediadan ef; canys heb-law y perhe a adroddais i, ac a wnawd yn fy abſen, fo wna<g ref="char:EOLhyphen"/>eth lawer ychwaneg o'r un rhyw; megis taflu o bobtu yn dra mynych ddarn mawr o liain, o ddeng el a deu<g ref="char:EOLhyphen"/>gain o hyd, yr hwn a adawſe ffrind i mi yn fy nhy, iw ddanfon i <hi>Lyons</hi> ar hyd y Dwr.</p>
+            <p>Fe gipiodd unwaith ganhwyllbren prês o law 'r for<g ref="char:EOLhyphen"/>wyn, gan adael y ganwyll wedi hennyn yn ei llaw hi. Fo gymmerei 'n fynych iawn beiſie 'r forwyn honno, ac a'i crogei nhw ar byſt y gwely, gan oſod arnynt hwy Hatt arw, y cyfryw ac y mae gwragedd gwledig o <hi>Breſſe</hi> yn arferol o wiſco, canys o'r wlâd honno yr ha<g ref="char:EOLhyphen"/>noedd hi.</p>
+            <p>Weithie fe grogei Blât ſtartſhio o faint mawr ar y pyſt hynny, wrth gorde, wedi clymmu felly, ac â chy<g ref="char:EOLhyphen"/>nifer o glymme, ac yr ydoedd yn ammhoffibl i dattod hwynt; ac etto fo'i dattodei nhwy ei hunan yn ddiſym<g ref="char:EOLhyphen"/>mwyth ac yn ebrwydd. Unwaith mi gefais fy motaſſe gwedi eu dryſu mewn lle, fel nad allit eu <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ynnu nhw oddi yno. A llawer gwaith y plethodd efe radiſh yng<g ref="char:EOLhyphen"/>hyd yn y fath fodd, ac nad ellit gwneuthur y cyffelyb beth, oni roddei ddyn ei fryd ar hynny pan bae 'n ſegur gyda llawer o hîr amynedd.</p>
+            <p>Ar ryw brydnawn-gwaith daeth ff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ind i mi, un Mr. <hi>Conain,</hi> pyſygwr o <hi>Faſcon,</hi> i ymweled â mi; ac fel <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> oeddwn i yn adrodd wrtho ef y pethau rhyfeddol hyn, ni aethom ynghyd ir ſtafell, lle yr oedd y Di<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fol fyny<g ref="char:EOLhyphen"/>chaf yn aros: yno y cowſom ni y gwely <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> blance<g ref="char:EOLhyphen"/>di, y llanlleine ar gobennydd wedi eu goſod i gyd ar y llawr. Yna y gelwais i ar y forw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n i dannu 'r gwely, ac hi a wnaeth hynny yn ein gwydd ni; eithr <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> o law, a ni yn rhodio yn yr un ſtafell, ni welem y gwely wedi ei fyſcu, a'i daflu i lawr fel o'r blaen.</p>
+            <p>
+               <pb n="34" facs="tcp:174192:18"/>Yn y ſtafell uwch ben honno, lle yr ydoedd fy ſtudy, mi gefais lawer gwaith rai o'm llyfre gwedi eu goſod ar y llawr ynghyd â'm howr-glaſs heb ei dorri, heb ddim niwed ond hynny. Fel yr oeddwn i unwaith yn eiſtedd yn fy ſtudy, fe wnaeth y Cythrael ſwn yn y ſtafell uwch benn, megis ſwn ergydion llawer o fwſcedi. Weithie fe fydde fel Oſtler yn fy ſtabal, yn trîn ac yn rhw bio fy ngheffyl, gan blethu ei gynffon a'i fwng ef; ond nid oedd efe ond anfedrus yn ei waith, canys mi ge<g ref="char:EOLhyphen"/>fais fy ngheffyl unwaith gwedi ei gyfrwyo gantho, a'r crwpper ym-mlaen, a'r pwmel yn ôl.</p>
+            <p>Fe fu 'n hîr yn y ty cyn y gallaſom ni ddeall ei fod e'n cyrchu im ſtafell wely. Eithr ar ryw nofweith, ar ôl myned o bawb ymaith ac a ddaeth<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſant i wrando arno, a myfi fy hun a'm teuly i gyd yn ein gwelâu, a dryſau a ffeneſtri 'r ty gwedi eu caead yn glos iawn, fo ddaeth i mewn, ac a ddechreuodd chwibanu yn araf, a hyn<g ref="char:EOLhyphen"/>ny ar droion, megis a phettaiſe ofn arno i'n deffroi ni. Ac fe gurodd megis ac â'i fys ar drwngc yn agos i'm gwely, fel y gwnaeth e'n fynych gwedyn. Fe daflei 'n '<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cidie ni o dautu 'r ſtafell, yn enwedig eiddo 'r for<g ref="char:EOLhyphen"/>wyn, yr hon, wrth ei glywed ef unwaith yn cym<g ref="char:EOLhyphen"/>meryd un oi 'ſcidie hi, a ymaflodd yn ebrwydd yn y llall, ac a ddywedodd dan wenu, <hi>ni chei di mo hon.</hi> Ac unwaith yn yr un ſtafell dan y bwrdd, fo ddily<g ref="char:EOLhyphen"/>nodd drwſt Trin-wyr cywarch, y rhai ſydd bedwar ynghyd yn curo 'r cywarch, y cyfryw ac oeddynt yn ein cymdog<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth ni, ac fo gadwodd yr unrhyw feſſur ag hwynthwy yn gymmwys.</p>
+            <p>Dros hîr amſer fo wnaeth i ni glywed pereidd-gân dwy gloch fychan, wedi eu clymmu ynghyd, y rhai y gymmeraſſ fe o fyſc rhyw hairnach rhwdlyd yn fy nhy. Pan y clywais i nhw gyntaf, mi adna<g ref="char:EOLhyphen"/>bum wrth eu ſwn hwy, mai myfi ai piodd hwynt: Mi aethym ir fann lle y goſodais i hwynt, on<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nis
+<pb n="35" facs="tcp:174192:18"/>
+cefais i mo honynt. Nid yn fy nhy i yn unig yr arfe<g ref="char:EOLhyphen"/>rodd y Cythrel ganu y clych hyn, ond efe ai dygodd hwynt o amgylch i fagad o leoedd yn y Drêf ac yn y wlâd. Ar ryw Sabboth y bore, a myfi yn myned i wenidogaethu yn <hi>
+                  <g ref="char:V">Ʋ</g>rigny,</hi> gyda rhai o Henuriaid fy Eglwys, ni glywſom ſwn y clych hyn yn agos iawn i'n cluſtie. Dywedodd Mr. <hi>Lulier</hi> un o'n cwmpeini wrthif, glywed o hono fo yn ei dy ef y clych hyn yn fynych. Bagad eraill a'u clywſant hwy yn agos iawn iddynt, eithr nis gallent ar un amſer moi gweled hwynt.</p>
+            <p>Ac ni chwareuodd y Diafol hwnnw ei gaſte yn unic yn fy nhy i; canys fe adroddodd Mr. <hi>Lulier</hi> wrthif lawer o'i weithrediadau ef yn ei dy a'i ſhop yntef; me<g ref="char:EOLhyphen"/>gis ei waith ef yn cymmeryd ac yn cuddio ei feini gwerth<g ref="char:EOLhyphen"/>fawr ai offerynnau gwaith ef, ac yna ei goſod hwynt drachefn lle yr oeddynt o'r blaen. Tra 'r ydoedd Mr. <hi>Lu<g ref="char:EOLhyphen"/>lier</hi> yn adrodd hyn wrthifi, efe a oſododd fodrwy aur, yr hon oedd y pryd hynny gantho tan law, ar y bwrdd, ynghyd a'r offeryn a'r hwn yr oedd yn ei dala hi: eithr yn y man fo'i cafodd hwy 'n eiſie, ac a chwiliodd am da<g ref="char:EOLhyphen"/>nynt tros hanner awr, ond i gyd yn ofer; ac am hynny efe a gymmerodd waith arall yn llaw; a chwedyn, efe a minne a welſom y fodrwy a'r offeryn yn Syrthio drachefn ar y bwrdd, ond ni wyddem ni o ba le.</p>
+            <p>Ar ryw noſwaith, pan nas gwiliadodd <hi>Lulier</hi> gyda ni, fel yr arferei o wneuthur, Dau ac a ddaethant yn hwyr iawn o'm ty i, a aroſaſant wrth ſhop <hi>Lulier,</hi> i roddi cy<g ref="char:EOLhyphen"/>frif iddo am weithrediau a geirie y cythrel y noſo n honno: T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a 'r oeddynt hwy yn ſiarad, fe gurodd y Cythrel yng<g ref="char:EOLhyphen"/>hylch teir gwaith yn galed iawn ar Dô o aſtyllod, yr hwn oedd uwch ben y ſhiop. Y noſwaith neſſaf ar ôl honno, <hi>Lu<g ref="char:EOLhyphen"/>lier</hi> a <hi>Repay</hi> wrth ddychwelyd o'm ty i, a ganfyddent wraig unic, wrth gongl yr heol yn nyddu wrth oleu'r
+<pb n="36" facs="tcp:174192:19"/>
+lleuad, mewn gwiſc wledig: ond hi ddiffannodd allan o'i <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> chwy, pan neſſauſant i geiſio gwybod pwy 'n yd<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dd hi.</p>
+            <p>Gan adel yr-wan y cyfryw weithrediade ac a wnaeth y Diafol allan o'm ty i, megis pethe nas gallaf lefaru am danynt gyda 'r fath ſiccrwydd, ac am y rh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i y we<g ref="char:EOLhyphen"/>lais ac y glywais i fy hunan: Ni wnaf i ond adrodd ei weithrediadau diweddaf ef yn fy nhy i: ac yn wir y rhai blinaf o'r cwbl (fel y dywed<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od y Diafol bob amſer yn greulon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch ar y diwedd nag <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> y dechre, ac ar y pryd hynny yn <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fyrnicaf, pan y go<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d arno ym<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>do) canys tros y deng <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eu <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>deuddeng niwr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d diweddaf, fo d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>flodd gerrig yn ddibaid o bobtu 'm <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, o'r bore hyd yr hwyr, a hynny yn aml iawn, a rhai o honynt yn pwy<g ref="char:EOLhyphen"/>ſo dwy neu dair pwys.</p>
+            <p>Ar un o'r dyddie diweddaf hyn, fe ddaeth Mr. <hi>Tornus</hi> i'm ty ynghylch hanner dydd, ac a fynnei wybod a oedd y Cyrhrel yno fyth, ac a chwib<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nodd m<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n amryw do<g ref="char:EOLhyphen"/>nau, a phob t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ô fe chwibanei 'r Diafo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rno vntef dra<g ref="char:EOLhyphen"/>chefn â'r un rhyw <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ôn. Yna y taflodd <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Diafol garreg atto; yr hon wedi ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rthio wrth ei d<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed ef heb wneu<g ref="char:EOLhyphen"/>thur iddo niwed, fo'i cym<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odd hi fyn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ac a'i no<g ref="char:EOLhyphen"/>dodd hi â glôy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ac ai t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>flodd ir tu cefn y ty, yr hwn o<g ref="char:EOLhyphen"/>edd agos i wal y Dref, ac ir afon <hi>Savone:</hi> eithr fe da<g ref="char:EOLhyphen"/>flodd y Diafol hi i fynu drachefn atto yntef; ac efe ad<g ref="char:EOLhyphen"/>nab <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ôd y glôyn, mai yr un garreg ydoedd hi. Mr. T<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> we<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> cyfodi 'r garreg honno i fynu, a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> clywe hi yn dwym iawn ac a ddywedodd ei fod e'n credu, ei bod hi yn uffer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edi ei bod hi yn ei law ef o'r bl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en.</p>
+            <p>Or diwe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, ar ôl yr holl eirie a'r gwei<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de hyn, fe ae<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h y Cythrel <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>maith y 22 o fis Rhagfyr; ar dydd neſſaf gwelwyd Gwib<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r fawr iawn yn myned allan o'm ty, yr hon a dd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llwyd â chraffe hirion gân rai Gwneu<g ref="char:EOLhyphen"/>thurwyr h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elion <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eu Gymmydogion; ac hwy a'i dyga<g ref="char:EOLhyphen"/>ſant h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ar hyd yr holl dref dan weiddi, <hi>Dymma' Cythrel y ddaeth allan o Dy 'r Gwenidog:</hi> ac ar y diwedd hwy a'i
+<pb n="37" facs="tcp:174192:19"/>
+gadawſant hi yn nhy un <hi>William Clark</hi> Apothecary, lle yr adnabyddwyd mai gwiber naturiol ydoedd hi, Sarph anghynnefin yn y wlâd honno.</p>
+            <p>Dros yr holl amſer y bu 'r Diawl yn cyrchu i'm ty, nis goddefodd Duw iddo wneuthur i ni niwed yn y byd, nac yn ein perſone, nac yn ein meddianne. Y dydd yr ymadawod efe â'r ty, fo grogodd y clych hynny, y rhai y ganaſſe, ac y ddygaſſe efe mor fynych o amgylch, ar hoel uwch ben ſimnai 'r ſtafell lle 'roedd e'n cynni<g ref="char:EOLhyphen"/>weir fynychaf.</p>
+            <p>Ni channiatawyd iddo gymmeint o allu, ac i rwygo un o'm llyfrau, nac i dorri un glaſs, nac i ddiffodd y ganwyll, yr hon a adawem ni i loſci trwy 'r nôs. Ac am hynny 'rwyfi 'n plygu 'nglinie, ac a wnaf felly tra fwi byw, im graſuſol Dduw, i roddi iddo Ddiolch am y mawr Drugaredd hwnnw.</p>
+            <p>Dymma 'r gwir a'r digym myſg draethiaid o eirie a gwei<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hrediade y Cythrel hwnnw. Ac y mae <hi>Marcellin</hi> un o O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>feiriaid y papiſtiaid, yr hwn oedd yn pregethu ym <hi>Maſcon</hi> ar yr amſer hynny, wedi adrodd llawer o'r pe<g ref="char:EOLhyphen"/>thau hyn yn gywir ddigon, mewn llyfr o'i eiddo ef, a brintiwyd yn <hi>Grenalle</hi> yn erbyn Mr. <hi>Beuterove,</hi> gan ddy<g ref="char:EOLhyphen"/>wedyd gael o hono 'r ſtori oddiwrth amryw ddynion, ond yn enwedig oddiwrth Mr. <hi>Fovillard</hi> Lifftenant Ge<g ref="char:EOLhyphen"/>nerall yn y <hi>Balliage</hi> o <hi>Faſcon,</hi> yr hwn wedi clywed y Sô<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gyffredinol ynghylch y digwyddi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d rhyfeddol hyn, a ddanfonodd ei frawd yn y gyfraith Mr. <hi>Ffrancis Gru<g ref="char:EOLhyphen"/>cin</hi> a Mr. <hi>Gaichard,</hi> Gwr o gyfraith i'm ty, i ddeiſyf ar<g ref="char:EOLhyphen"/>nai ddyfod atto ef, i fynegi 'r holl fatter iddo, yr hyn beth a wneuthum i. Etto (trwy gennad <hi>Marcellin</hi>) aid gwir yw hynny, (ac y mae efe, ac eraill gwyr tanbaid ſy'n barnu cyn llwyr wrando, yn ei gaſglu oddiwrth hyn, i'm gwradwyddo i a'm proffes) fef, bod cyfeillgarwch rh<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gofi ag yſprydion drwg. Cans y mae Duw yn Dyſt ar fy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g-hydwybod, na bu rhyngofi erioed gydymddi<g ref="char:EOLhyphen"/>ddan â'r creaduriaid echrydus <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yn, ac nas gwn i fwy
+<pb n="38" facs="tcp:174192:20"/>
+oddiwrthynt, nag y ryngodd bôdd iw dduwiol ddoethi<g ref="char:EOLhyphen"/>neb ef i adel i mi wybod allan o'i Air, ac o'r profiad hyn yn fy nhy. Ac fe wyr Duw, mai fyng ofal pennaf i ydo<g ref="char:EOLhyphen"/>edd, ar ir Dalent fechan honno gynnyddu, yr hon a roddes Duw i mi, i hyfforddi fy hunan ac eraill, yn y wir a'r iachus ddyſgeidiaeth ynghylch iechydwriaeth dra<g ref="char:EOLhyphen"/>gwyddol, yr hyn ydyw, i adnabod ef yr unic wir Dduw, a Ieſu Griſt yr hwn a ddanfonodd efe.</p>
+            <p>Ac yn wir, yn y matter hyn, y mae <hi>Marcellin</hi> ac eraill, y rhai a adroddaſant ac a ſcrifennaſant y ſtori hon er An<g ref="char:EOLhyphen"/>glod i mi, yn gwrth-ddywedyd Mr. <hi>Ffovillard</hi> Lifftenant Generall o <hi>Faſcon,</hi> a'r Arglwydd <hi>Gaſpard Divet</hi> Eſcob <hi>Maſcon,</hi> yr hwn, ar y Sôn gyffredin ynghylch y pethau hyn, a ddanfonodd am Mr. <hi>Tornus,</hi> i gael gwybodaeth o'r gwirionedd am danynt: ac er mwyn mwy o ſiccrw<g ref="char:EOLhyphen"/>ydd, fe anfonodd ei ſcrifennydd ei hun Mr. <hi>Chamber,</hi> iw dyſgu hwynt yn neilltuol o'm genau fy hun; ac mi a a<g ref="char:EOLhyphen"/>droddais y cwbl wrtho ef, heb gelu na chuddio dim. Ac fe ddywedodd y ddau wr bonheddig hyn, <hi>Tornus</hi> a <hi>Cham<g ref="char:EOLhyphen"/>ber</hi> wrthifi ar ol hynny, ddarfod ir Eſcob ryfeddu 'n ddir<g ref="char:EOLhyphen"/>fawr wrth wrando 'r ſtori honno, a gwneuthur o hono ryw atgoffa o honi mewn ſcrifen.</p>
+            <p>Yn awr os gofyn neb i mi, pa beth a allei fod yr achos o'r ddamwain rhyfeddol hyn (canys nid oes dim yn fwy cyffredinol a naturiol i bôb dyn, nag ymofyn am yr acho<g ref="char:EOLhyphen"/>ſion, yn enwedig o bethau anarferol) mi attebaf, wrth yſtyried gogy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chiadau 'r amſer, a'r lle, a'r bobl yr oeddwn i yn delio ag hwynt y pryd hynny, fod llawer o achoſion (mewn tybygoliaeth) yn cydfod am y peth.</p>
+            <p>Yn gyntaf, yw gymmeint a bod amſeroedd, yn y rhai y mae 'r cythreuliaid megis heb eu cadwyno, ac â mwy o rydd-dyd ganthynt i arferu eu dichellion; a bod amſeroedd eraill pan y m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent wedi eu rhwymo i mewn, a'u hattal rhag gwneuthur drwg, megis y gwelwn yn yr 20. o'r <hi>Da<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cuddiad;</hi> fe allei un yn wir, gyda rheſwm da ddy<g ref="char:EOLhyphen"/>wedyd, pan y bu'r Diawl mor eon yn fy nhy i, fod y cy<g ref="char:EOLhyphen"/>threuliaid
+<pb n="39" facs="tcp:174192:20"/>
+ar yr amſer hwnnw megis wedi eu gollwng yn rhydd, cany<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yr oedd y Byd y pryd hynny yn llawn o hi<g ref="char:EOLhyphen"/>ſtorian, ynghylch caſtie anarferol yr yſprydion drwg hyn.</p>
+            <p>G<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llir gwirio hyn wrth lyfr y ſcrifennodd Mr. <hi>de I' Anere,</hi> un o Gynghorwyr y Brenin, wedi uno mewn commiſſiwn gyda Mr. <hi>D. Eſpagnet</hi> y Barnwr pennaf yn <hi>Toloſa,</hi> i farnu'r W<gap reason="illegible" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>d o wlad <hi>Labour</hi> neu wlad y <hi>Baſques,</hi> yn agos ir <hi>pyreni<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u</hi> fynyddoedd. Enw 'r Llyfr yw, <hi>Eglurháad ynghylch <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nwad<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>wch cythreuliaid ac yſpr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dion drwg,</hi> lle y goſodir al<g ref="char:EOLhyphen"/>lan y fa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h bethau dieithr ac echrydus, ac a ddichon beri gwallt y Darllenwyr i ſefyll ar eu pennau.</p>
+            <p>Angwhanegwch at hyn y ſtori ofnadwy ynghylch <hi>Lewis Ga<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>di,</hi> offeiriad o <hi>Farſeilles,</hi> un o'r offerynnau mwyaf o eiddo 'r Diawl ac a ddygodd uffern erioed allan, yr hwn a loſcwyd ychydig o'r blaen trwy ordinháad y Parliament 'o <hi>Aix</hi> yn <hi>Province.</hi>
+            </p>
+            <p>Ar yn un amſer yr ymddangoſodd <hi>Cythrael</hi> yn <hi>Lyons,</hi> mewn agwedd gwraig fonheddig lân, i <hi>Lifftenant Mar<g ref="char:EOLhyphen"/>chog y Wiliadwriaeth,</hi> henw yr hwn oedd <hi>la Jaquere,</hi> ac i ddau eraill o'i gyfeillion ef; A gorweddodd y Tri hyn gy<g ref="char:EOLhyphen"/>da 'r Cythrel hwnnw, ac a ddaethant trwy hynny i ddi<g ref="char:EOLhyphen"/>wedd ofnadwy iawn. Y mae 'r ſtori honno yn brintiedig ym-myſc llawer o Hiſtoriau aruthrol o'n hamſer ni.</p>
+            <p>Ar yr un amſer, ſef, yn n flwyddyn 1612. fe oſod<g ref="char:EOLhyphen"/>wyd <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>an y cyffelyb ſtori ir honno o <hi>Lyons,</hi> fel y bu Gwr cyfrifol ym <hi>Mharis,</hi> ar y cyntaf o fîs <hi>Ionawr</hi> yn y flwy<g ref="char:EOLhyphen"/>ddyn honno, yn cyttal ac yn aros gyda <hi>Chythrael,</hi> yr hwn a ymddangoſod iddo megis Arglwyddes brydferth: eithr y boreu neſſaf, gwedi i rai Jeſtyſiaid a Phyſygwyr weled yr Arglwyddes honno, fe adnabuwyd, mai Corph Gwraig ydoedd hi, yr hon a grogwyd ychydig o ddyddiau o'r blaen.</p>
+            <p>Ynghylch yr un pryd, yr oedd Carcharau <hi>Maſcon</hi> we<g ref="char:EOLhyphen"/>di ei llenwi â nifer fawr o wyr a gwragedd, ifaingc ac hên o Bentref <hi>Chaſſelas,</hi> a Threfydd eraill ger
+<pb n="40" facs="tcp:174192:21"/>
+llaw iddi, wedi eu in littio i gyd am ſwyngyfaredd neu witſhio, y rhai gwedi eu bwrw a'u condemnio ym <hi>Maſcon,</hi> a gyfo daſant eu matter, i Barliament <hi>Paris,</hi> ac hwy a hebryngwyd vno gan Swyddog a rhai gwyr ar<g ref="char:EOLhyphen"/>fog. Ar y ffordd fe gyfarfu <hi>Coatſh</hi> â hwynt, ac yntho Wr yn edr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch fel <hi>Barnwr;</hi> yr hwn a ſafodd, ac a ofynnodd ir ſwyddog, pa garcharorion yr oedd efe yn ei arwain, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ba le yr oeddynt yn dyfod, ac i ba le yr oeddynt yn my<g ref="char:EOLhyphen"/>ned. Gwedi ir Swyddog ei atteb ef: y Gwr (os felly y gellir ei alw ef) gan edrych ar y carcharorion, a ddywe<g ref="char:EOLhyphen"/>dodd wrth un o honynt, gan ei alw ef wrth ei enw, Beth yn awr? a wyt ti yn un o honynt hwy? nac ofna ddim canys ni ddioddefi di, nac un o'th gwmpeini. A gwi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> y prwſiodd ei eiriau ef, canys o fewn ychydig ar ôl hyn<g ref="char:EOLhyphen"/>ny fe'i rhyddhawyd hwynt oll.</p>
+            <p>Ar yr un amſer llangces fechan o <hi>Faſcon,</hi> ynghylch tair neu bedair ar ddeg oed, merch i un o'r Dinaſyddi<g ref="char:EOLhyphen"/>on pennaf o'r Drêf, yr hon a orweddei gyda morwyn o'r Ty, a ddeallodd ei bod hi yn fynych iawn yn abſennu e hun yn y nôs; ac a ofynnodd iddi unwaith, o ba le y daeth hi; fe attebodd y forwyn, ddyfod o honi o fan, lle yr oedd cwmpeini da, a dawnſio rhagorol, a phôb mâth o ddifyrwch a llawenydd. Yna y llangces, we<g ref="char:EOLhyphen"/>di blaſſu ar y newydd hyn, a ddymunodd ar y Forwyn i dwyn hithe ir lle hwnnw. Ar hyn fe enneiniodd y for<g ref="char:EOLhyphen"/>wyn hi, gan beri iddi arfer y defodau cyffredin a orch<g ref="char:EOLhyphen"/>ymynnir gan Ddiafol i witſhod. Yna y cippiwyd y llang<g ref="char:EOLhyphen"/>ces i fynu ir Awyr gan Gythrael, mal ac yr adroddod<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hi gwedyn. Ond pan wybu hi ei bod goruwch Mynach<g ref="char:EOLhyphen"/>log y <hi>Capuchin</hi> Offeiriaid, hi a frawychodd ac a alwodd ar Dduw, yr hwn a'i cynnorthwyodd hi, ac a wnaeth i'r Cythrel i dodi hi ar lawr yn ei gardd hwynt, yng<g ref="char:EOLhyphen"/>hylch hanner nôs. Y Capuchiaid, pan y clywſant ei llêf wylofus, a ddaethant iw helpu hi: A phan y dy<g ref="char:EOLhyphen"/>wedodd hi wrthynt pwy 'n oedd hi, a pha beth a ddig<g ref="char:EOLhyphen"/>wyddaffe iddi, Dau o honynt a'i hebryngaſant hi yn ddir<g ref="char:EOLhyphen"/>gel
+<pb n="41" facs="tcp:174192:21"/>
+i Dy ei Thâd. Myfi a glywais laweroedd yn ſicc<g ref="char:EOLhyphen"/>rháu gwirionedd y matter hyn megis peth dilys. Myfi a welais y llargces honno yn fynych, a chlywais gwedyn ei bod hi 'n briod.</p>
+            <p>Ar y pryd hynny hefyd y dwedpwyd yn rhygil, fod rhyw Gythrael yn cyrchu 'n fynych i Dy Pobyddes ym <hi>Maſcon,</hi> yn yr heol <hi>de la Tupinerie,</hi> mewn agwedd Gwr, a chap côch ar ei ben, ac fo edrychei allan trwy 'r ffe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtr wrth olau 'r Gannaid. Fe adroddodd bagad wrthifi fod hyn yn wir iawn, ac <hi>Abraham Lullier</hi> a en<g ref="char:EOLhyphen"/>wyd o'r blaen oedd un o honynt. Ac nis gwn i a yma<g ref="char:EOLhyphen"/>dawodd y Cythrel â'r ty hwnnw etto, er cymmaint o Gonſuriaeth ac o foddion eraill hefyd a arferwyd iw fw<g ref="char:EOLhyphen"/>rw ef allan.</p>
+            <p>Ar yr un amſer fe gadwodd rhyw Ddiawl ſtwr fawr yn Eglwys Saint <hi>Stephan</hi> ym <hi>Maſcon,</hi> gan ddadymchwelyd amryw Feddau: a chwedi cyhoeddi 'r peth o dautu 'r Dréf, myfi a welais, (gan fy môd yn trigo yn y gym<g ref="char:EOLhyphen"/>dogaeth honno) ran fawr o'r bobl yn ymgaſglu yno. Y cyffelyb beth hefyd a ddigwyddodd yn Eglwys Saint <hi>Al<g ref="char:EOLhyphen"/>ban,</hi> yn agos i <hi> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſcon,</hi> ar yr un amſer.</p>
+            <p>Drache<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ar yr amſer hynny y cyrchodd rhyw Ddi<g ref="char:EOLhyphen"/>awl i Dy gwraig weddw ym <hi>Marigny les Nonnains,</hi> yn gyfagos i <hi>Faſcon,</hi> dros dri mîs, lle y gwnaeth e lawer o ddrwg, gan ollwng ar redeg y gwîn yn y ſeler. Ac fo bwyodd amryw ddynion yn greulon, ac ym myſc eraill rhyw Of a wnai gloyon, yr hwn a ddaeth ir Ty yn feddw ac a roddodd lawer o ddrwg eiriau a bygwthion ir Cythrael hwnnw, yr hwn yn ddioed a fu cwitt ag efo; canys fe gymmerodd un o'r Andirwns (ſef offeryn o'r ſimnai) ac ai curodd e'n dôſt ag ef, hyd oni redodd e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ymmaith allan o'r Ty yn gyflym. Wrth y ſtoriau hyn ac amryw o'r un fath (am ba rai ni ſonniaf yr-wan) y mae 'n eglur, pan yr oedd Cythrael yn ſy rhy i, fod y Diawl y pryd hynny megis heb ei gadwyno.</p>
+            <p>Rwi 'n tybied hefyd, y gallei 'r Cythrel hwn gael <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="42" facs="tcp:174192:22"/>
+ddanfon attafi, gan rai ac oeddynt yn llidiog i'm her<g ref="char:EOLhyphen"/>byn, am i mi gael trwy ymbil Gennad gan y Brenin, i adeiladu Eglwys i'n Proteſtantiaid ni, yn agos i furiau <hi>Maſcon;</hi> o herwydd ynghorph y Dydd hwnnw, ac y dechreuodd y Diawl yr afreolaeth hynny yn fy nhy i, fe'm bygwthwyd gan un, ger bron cymmanfa y Bwrdei<g ref="char:EOLhyphen"/>ſiaid o <hi>Faſcon, y byddei ar fyrder i ryw ddrwg fy ngorddi<g ref="char:EOLhyphen"/>wes i.</hi> A lletdybiwyd fod y Dyn hwnnw yn ddiſcybl i un <hi>Ceſar</hi> ſwynwr hynod, y fuaſſe byw ym <hi>Maſcon</hi> ychy<g ref="char:EOLhyphen"/>dig o'r blaen.</p>
+            <p>Llawer a fwriaſant ddyfodiad y Diafol hwnnw i'm Ty i, ar fy morwyn <hi>Broſſande,</hi> (am yr hon y cryb<g ref="char:EOLhyphen"/>wyſlais i o'r blaen) oblegit yr oeddyt yn tybied ei bod hi 'n Ddewines neu <hi>Witſh;</hi> Canys fe ddywede rhai, fodys yn bwrw fod ei Rhieni hi yn euog o ſwyn-gyfa<g ref="char:EOLhyphen"/>redd. 'Rwi 'n cofio iddi ofyn i mi unwaith, a ydoedd boffibl i neb o'r rheini, ac a ymroddaſant eu hunain ir Diafol, gael trugaredd oddiwrth Dduw. Ac ar am<g ref="char:EOLhyphen"/>ſer arall, pan y gwelodd hi fy mod i 'n ofni, rhag ir Diawl wneuthur niwed i ddau langc, y rhai a orwedd<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt yn y ſta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell neſſaf ir hon, lle y clybuwyd ef ynthi, Hi a ddywedodd wrthif; <hi>Nac ofnwch, Ni wna fo ddim niw<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> iddynt:</hi> A gwir ydyw, y cellweirie ac y bydde hi gyfeillgar ag ef: canys heb-law 'r peth a ddywedais i o'r blaen ynghylch hyn, hi a feiodd yr <hi>Yſpryd</hi> unwaith, am na ddaethaſſe fe â choed iddi, ac ar hynny, yn ddiaros, fe a daflodd i lawr iddi goeled o goed wrth droed y ſtâr. Ac ar ei gwaith hi'n cynnig gadel ein gwaſanaeth ni, daeth un arall i'n gwaſnaethu yn ei lle hi, ac a orweddodd yn yr un gwely gyda hi: A'r Di<g ref="char:EOLhyphen"/>awl, er nis gwnaeth niwed iddi hi erioed, etto a gurei 'r forwyn newydd yn y gwely, ac a dywallte ddwr ar ei phen hi, hyd oni orfu erni fyned ymmaith.</p>
+            <p>A chynnyddodd fy nrwg dyb i am y Breſſande honno trwy adroddiad a wnaeth hi wrthif, ar ddiwrnod yr oeddwn yn glâf, am wr dû mawr, yrhwn a ymddan<g ref="char:EOLhyphen"/>goſſaſe
+<pb n="43" facs="tcp:174192:22"/>
+iddi hi y nos o'r blaen wrrh olau 'r lloer, yn dala phiol yn ei law fel Phyſygwr. Hyn ynghyd a pethau eraill o'r fath, a weithiodd ynofi Dyb ca<g ref="char:EOLhyphen"/>led am dani, megis un ac a allei fod yn achos ym<g ref="char:EOLhyphen"/>myſc eraill, o ddyfodiad y lletteywr uffernol hynny attom.</p>
+            <p>Goſodwch at hyn amgylchiad y lle, canys fe wna<g ref="char:EOLhyphen"/>ethpwyd gynt lanaſdra yn yr un Ty, os gellir coelio geiriau 'r Cythrael a'r Sain gyffredin. Ac nid ydyw yn beth anarferol, fod y Diafol yn mynych gynniweir i dai, lle y gwnaethpwyd rhyw lofruddiaeth, neu ryw weithred ffieidd arall. Y mae <hi>Cardan</hi> yn mynegi, fod Caſtell ym <hi>Mharma,</hi> yn perthyn i deuly anrhydeddus y <hi>Torelli;</hi> ac yn un o'r ſimnie yntho, fod yſpryd drwg yn ymddangos, mewn dull hen wraig hagr, pa bryd bynnag y byddei un o'r Teulu farw, er yr amſer ac y lladdwyd hên wraig dra goludog yn y Ty hwnnw, trwy drachwant ei Neiaint hi, y rhai a'i drylliaſant hi 'n ddarne, ac ai taflaſanr ir gaudy.</p>
+            <p>Eithr yr achos tybygolaf yw hyn, ſef, ar ôl i mi en<g ref="char:EOLhyphen"/>nill y Ty hynny trwy ordor cyfraith, a'm dodi mewn goreſcyn o hono trwy awdurdod cyfiawn, fe gafwyd y wraig, yr hon y ddaethym i iw bwrw allan o'r Ty, dan y Simnai yn galw ar y Diawl, ac yn bytheirio allan regfeydd echryſlawn yn fy erbyn i a'm teulu, gan ddy<g ref="char:EOLhyphen"/>wedyd, <hi>a clywei hi ar ei chalon fod yn fodlon i gymme<g ref="char:EOLhyphen"/>ryd ei chrogi, ie cymmeryd ei damnio, a bod yng waelod uff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rn gyda 'r holl Gythreuliaid, pe galle hi ond ymddial arnafi a'm heiddo.</hi> A phan dwetpwyd y geiriau hyn wrthif, myfi a ddygais Betiſhwn yn ei herbyn hi at Farn<g ref="char:EOLhyphen"/>wr <hi>Maſcon,</hi> ac efe a rwymodd y wraig ir <hi>Good Behavi<g ref="char:EOLhyphen"/>our,</hi> gan wahardd iddi wneuthur niwed i neb o honom ni, nac yn ein Perſonau, nac yn ein Dâ, dan boen ffor<g ref="char:EOLhyphen"/>ffetion mawr: a dodwyd fi a'm Teulu dan amddiffynni<g ref="char:EOLhyphen"/>ad y Brenin a'r Gyfraith: Ac yr wyfi 'n cadw fyth gy<g ref="char:EOLhyphen"/>da mi Ordinhadau y Barnwr yn y matter hyn.</p>
+            <p>
+               <pb n="44" facs="tcp:174192:23"/>Eithr heb ſefyll yn hwy ar yr ail Achoſion, rwi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cyfrif y cwbl i drefniad yr Achos cyntaf, gan dderchafe fyng olygon tuagat y llaw a'm tarawodd i, yr hwn <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gyd ddangoſſodd ei nerth yn fyng wendid i, ei druga<g ref="char:EOLhyphen"/>redd yn fy nhroſſedd i, a'i ddoeth, arafaidd, a rhyfe<g ref="char:EOLhyphen"/>ddol weithrediadau tuag attafi; oblegit nas goddefodd fy nhemptio tu-hwnt i'm gallu, eithr a wnaeth ynghyd â'r brofedigaeth ffordd i mi ddyfod allan, fel y gallwn ei dwyn hi.</p>
+            <p>Y mae gennif Achos mawr i ddywedyd gyda 'r Bren<g ref="char:EOLhyphen"/>hinol Brophwyd Dafydd, <hi>Ein henaid a ddiangodd fel Aderyn o fagl yr Adarwyr; y Fagl a dorrwyd, a ninne a ddi<g ref="char:EOLhyphen"/>anghaſom: Ein porth ni fyda yn enw'r Arglwydd, yr hwn a wnaeth Nefoedd a Daiar.</hi> Iddo ef am hynny y byddo 'r Gogoniant yn awr ac yn dragywydd. <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
